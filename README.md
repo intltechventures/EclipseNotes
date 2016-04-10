@@ -1,10 +1,18 @@
 EclipseNotes
 ============
 
-Useful Eclipse Plugin Notes
+I've been a long-time user of Eclipse - and this list has been my own internal running commentary (and helpfuul tickler file) to remind me of what I've installed when a version of Eclipse is released
+
+### TO-DO:
+* Clean-up the list
+* Consider breaking the material out into separate files, for a given Eclipse release
+
+
+# Some Useful Links to Eclipse Plugins & Notes
 
 4.5 Mars
-================================================================================================
+============
+
 http://download.eclipse.org/tools/cdt/releases/8.8.1
 
 http://download.walware.de/eclipse-4.4
@@ -34,8 +42,8 @@ http://community-downloads.quest.com/toadsoft/toadextensions/eclipse/freeware/
 https://marketplace.eclipse.org/content/toad-extension-eclipse
 
 
-================================================================================================
 4.4 Luna
+============
 
 INSTALLED:
 
@@ -158,9 +166,9 @@ http://marketplace.eclipse.org/content/powershelleditor
 http://marketplace.eclipse.org/content/eclipse-4-tools-context-spy
 
 
-================================================================================================
-
 4.3 Kepler
+============
+
 Groovy
 http://dist.springsource.org/release/GRECLIPSE/e4.3/
 
@@ -197,8 +205,9 @@ http://releases.goclipse.googlecode.com/git/
 http://pydev.org/updates
 http://pydev.org/nightly
 
-================================================================================================
+
 4.2 Juno
+============
 
 Spring
 http://dist.springsource.org/release/GRECLIPSE/e4.2/
@@ -232,13 +241,24 @@ Also, from the Mylyn for Eclipse Juno update site select all updates except Myly
 
 7. After restarting again, install the following extensions from the Eclipse Marketplace: Maven Integration for Eclipse, QWickie, Atlassian Connector for Eclipse, JavaCC Eclipse Plugin, Apache Directory Studio, TestNG for Eclipse, EGit, GitHub Mylyn Connector, Mylyn WikiText, Bndtools, Checkstyle, PMD, Vex)
 Groovy Eclipse from http://dist.springsource.org/release/GRECLIPSE/e4.2/ 
-SpringSource Tool Suite for Eclipse Juno from http://dist.springsource.com/release/TOOLS/update/e4.2
-Install JBoss Tools (Indigo) from http://download.jboss.org/jbosstools/updates/nightly/core/trunk/ 
-. Go to "Window / Preferences / Maven / Discovery" and "Open Catalog". Select antlr, Axis Tools m2e, buildhelper, CheckStyle M2E, m2e-apt, m2e-jdt-compiler, PMD M2E, Tycho Configurator, m2e-egit, m2e-subclipse
-Android Development Tools https://dl-ssl.google.com/android/eclipse/
 
-Download Jar Class Finder version 2.1.0 from http://www.alphaworks.ibm.com/tech/jarclassfinder/download and copy the Jar to the Eclipse/dropins/plugins subdirectory.
-Download Tarlog Plugin 1.4.2 from http://code.google.com/p/tarlog-plugins/ (I used tarlog.eclipse.plugins_1.4.2.jar) and copy the Jar to the Eclipse/dropins/plugins subdirectory.
+SpringSource Tool Suite for Eclipse Juno from http://dist.springsource.com/release/TOOLS/update/e4.2
+
+Install JBoss Tools (Indigo) from 
+http://download.jboss.org/jbosstools/updates/nightly/core/trunk/ 
+
+. Go to "Window / Preferences / Maven / Discovery" and "Open Catalog". Select antlr, Axis Tools m2e, buildhelper, CheckStyle M2E, m2e-apt, m2e-jdt-compiler, PMD M2E, Tycho Configurator, m2e-egit, m2e-subclipse
+
+Android Development Tools 
+https://dl-ssl.google.com/android/eclipse/
+
+Download Jar Class Finder version 2.1.0 from 
+http://www.alphaworks.ibm.com/tech/jarclassfinder/download 
+and copy the Jar to the Eclipse/dropins/plugins subdirectory.
+
+Download Tarlog Plugin 1.4.2 from 
+http://code.google.com/p/tarlog-plugins/ 
+(I used tarlog.eclipse.plugins_1.4.2.jar) and copy the Jar to the Eclipse/dropins/plugins subdirectory.
 
 http://download.eclipse.org/tools/ajdt/42/update/
 http://andrei.gmxhome.de/eclipse.html
@@ -265,9 +285,8 @@ http://download.walware.de/eclipse-4.2
 http://download.walware.de/eclipse-4.3
 
 
-================================================================================================
-
-Eclipse 3.7 Indigo release.
+Eclipse 3.7 Indigo 
+============
 
 I'm still evaluating the compatibility of the following plugins...
 
@@ -364,15 +383,13 @@ http://regex-util.sourceforge.net/update/
 http://download.eclipse.org/tools/cdt/releases/indigo
 
 
-================================================================================================
 
 Keep An Eye On These...
+============
 
 http://download.eclipse.org/technology/linuxtools/update
 
 http://andrei.gmxhome.de/eclipse/
-
-================================================================================================
 
 http://marketplace.eclipse.org/content/java-hex-editor
 
@@ -407,21 +424,17 @@ http://marketplace.eclipse.org/content/hibernate-tools-0
 http://code.google.com/eclipse/docs/getting_started.html
 
 
-========================================================
 to consider...
-
+============
 
 http://graysky.sourceforge.net/
-
 
 http://www.ajaxline.com/best-eclipse-plugins
 
 http://jimbarritt.com/mind-web/index.php?title=List_of_useful_Eclipse_plugins
 
-
 http://dl.google.com/eclipse/plugin/3.5
 http://marketplace.eclipse.org/content/google-plugin-eclipse
-
 
 http://marketplace.eclipse.org/content/glassfish-java-ee-application-server-plugin-eclipse
 
@@ -453,6 +466,5 @@ http://marketplace.eclipse.org/content/tweaks
 
 http://marketplace.eclipse.org/content/scala-ide-eclipse
 
-CICS Explorer...
+CICS Explorer 
 http://public.dhe.ibm.com/software/htp/zos/2/1/0 
-
