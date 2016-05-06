@@ -3,12 +3,12 @@ EclipseNotes
 
 I've been a long-time user of Eclipse - and this list has been my own internal running commentary (and helpfuul tickler file) to remind me of what I've installed when a version of Eclipse is released
 
-### TO-DO:
+TO-DO:
 * Clean-up the list
 * Consider breaking the material out into separate files, for a given Eclipse release
 
 
-# Some Useful Links to Eclipse Plugins & Notes
+Some Useful Links to Eclipse Plugins & Notes
 
 4.5 Mars
 ============
