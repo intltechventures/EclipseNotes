@@ -1,6 +1,10 @@
 EclipseNotes
 ============
 
+Useful References
+* http://help.eclipse.org/mars/index.jsp
+
+
 I've been a long-time user of Eclipse - and this list has been my own internal running commentary (and helpfuul tickler file) to remind me of what I've installed when a version of Eclipse is released
 
 TO-DO:
