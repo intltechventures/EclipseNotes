@@ -48,6 +48,8 @@ https://marketplace.eclipse.org/content/toad-extension-eclipse
 
 TO EVALUATE:
 * http://fdt.powerflasher.com/
+* http://www.eclipse.org/linuxtools/projectPages/libhover/
+  * http://wiki.eclipse.org/Linux_Tools_Project/PluginInstallHelp
 
 
 4.4 Luna
