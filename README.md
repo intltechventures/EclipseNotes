@@ -46,6 +46,10 @@ http://community-downloads.quest.com/toadsoft/toadextensions/eclipse/freeware/
 https://marketplace.eclipse.org/content/toad-extension-eclipse
 
 
+TO EVALUATE:
+* http://fdt.powerflasher.com/
+
+
 4.4 Luna
 ============
 
