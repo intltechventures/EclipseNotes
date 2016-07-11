@@ -14,6 +14,20 @@ TO-DO:
 
 Some Useful Links to Eclipse Plugins & Notes
 
+
+[4.6 Neon] (https://www.eclipse.org/projects/project-plan.php?planurl=http://www.eclipse.org/eclipse/development/plans/eclipse_project_plan_4_6.xml)
+============
+
+
+
+
+https://dzone.com/articles/spring-tool-suite-380-released
+https://spring.io/tools/sts/all
+
+
+
+
+
 4.5 Mars
 ============
 
