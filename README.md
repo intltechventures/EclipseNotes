@@ -20,11 +20,19 @@ Some Useful Links to Eclipse Plugins & Notes
 
 
 
+* Spring
+  * https://dzone.com/articles/spring-tool-suite-380-released
+  * https://spring.io/tools/sts/all
 
-https://dzone.com/articles/spring-tool-suite-380-released
-https://spring.io/tools/sts/all
+
+* GoLang
+  * https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation
+  * http://goclipse.github.io/releases/
 
 
+* Python
+* http://www.pydev.org
+  * http://pydev.org/updates
 
 
 
