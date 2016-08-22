@@ -18,8 +18,6 @@ Some Useful Links to Eclipse Plugins & Notes
 [4.6 Neon] (https://www.eclipse.org/projects/project-plan.php?planurl=http://www.eclipse.org/eclipse/development/plans/eclipse_project_plan_4_6.xml)
 ============
 
-
-
 * Spring
   * https://dzone.com/articles/spring-tool-suite-380-released
   * https://spring.io/tools/sts/all
@@ -30,9 +28,24 @@ Some Useful Links to Eclipse Plugins & Notes
   * http://goclipse.github.io/releases/
 
 
+* Scala
+  * http://scala-ide.org/
+  * http://scala-ide.org/download/current.html
+  * http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site 
+
+
+
 * Python
 * http://www.pydev.org
   * http://pydev.org/updates
+
+* PHP
+  * http://download.eclipse.org/tools/pdt/updates/4.0.1
+
+* Toad
+  * http://www.toadworld.com/products/toad-extension-for-eclipse/
+  * https://marketplace.eclipse.org/content/toad-extension-eclipse
+  * http://community-downloads.quest.com/toadsoft/toadextensions/eclipse/freeware/
 
 
 
