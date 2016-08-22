@@ -8,7 +8,7 @@ Useful References
 I've been a long-time user of Eclipse - and this list has been my own internal running commentary (and helpfuul tickler file) to remind me of what I've installed when a version of Eclipse is released
 
 TO-DO:
-* Clean-up the list
+* Clean-up the lishttp://dist.springsource.com/release/TOOLS/update/e4.6/t
 * Consider breaking the material out into separate files, for a given Eclipse release
 
 
@@ -19,13 +19,17 @@ Some Useful Links to Eclipse Plugins & Notes
 ============
 
 * Spring
-  * https://dzone.com/articles/spring-tool-suite-380-released
   * https://spring.io/tools/sts/all
-
+  * http://dist.springsource.com/release/TOOLS/update/e4.6/
 
 * GoLang
   * https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation
   * http://goclipse.github.io/releases/
+
+
+* Amazon Cloud
+  * https://aws.amazon.com/eclipse/
+
 
 
 * Scala
