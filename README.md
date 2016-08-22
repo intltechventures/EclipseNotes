@@ -40,8 +40,19 @@ Some Useful Links to Eclipse Plugins & Notes
 
 
 * Python
-* http://www.pydev.org
+  * http://www.pydev.org
   * http://pydev.org/updates
+  
+
+* Linux Tools Project
+  * https://wiki.eclipse.org/Linux_Tools_Project/Docker_Tooling
+  * https://wiki.eclipse.org/Linux_Tools_Project/Docker_Tooling/User_Guide
+
+
+* Eclipse Tools for Cloud Foundry
+  * https://marketplace.eclipse.org/content/eclipse-tools-cloud-foundry
+  * http://download.eclipse.org/cft/1.0.1.M1
+
 
 * PHP
   * http://download.eclipse.org/tools/pdt/updates/4.0.1
