@@ -63,6 +63,15 @@ Some Useful Links to Eclipse Plugins & Notes
   * http://community-downloads.quest.com/toadsoft/toadextensions/eclipse/freeware/
 
 
+* http://subclipse.tigris.org/
+  * http://subclipse.tigris.org/update_1.12.x 
+
+
+* http://tomee.apache.org/tomee-and-eclipse.html
+  * http://stackoverflow.com/questions/37024876/how-to-use-tomcat-8-5-x-and-tomee-7-x-with-eclipse
+  * Replacement tomcat.core jar to allow Tomcat 9 server type to use tomcat 8.5
+    * https://bugs.eclipse.org/bugs/attachment.cgi?id=262418&action=edit
+
 
 4.5 Mars
 ============
