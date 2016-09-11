@@ -29,7 +29,9 @@ Some Useful Links to Eclipse Plugins & Notes
 
 * Go
   * https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation
+  * https://github.com/GoClipse/goclipse/blob/latest/documentation/UserGuide.md
   * http://goclipse.github.io/releases/
+
 
 
 * Amazon Cloud
