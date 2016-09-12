@@ -8,7 +8,7 @@ Useful References
 I've been a long-time user of Eclipse - and this list has been my own internal running commentary (and helpfuul tickler file) to remind me of what I've installed when a version of Eclipse is released
 
 TO-DO:
-* Clean-up the lishttp://dist.springsource.com/release/TOOLS/update/e4.6/t
+* Clean-up the lists
 * Consider breaking the material out into separate files, for a given Eclipse release
 
 
