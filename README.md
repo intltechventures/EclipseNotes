@@ -33,6 +33,11 @@ Some Useful Links to Eclipse Plugins & Notes
   * http://goclipse.github.io/releases/
 
 
+* Rust
+  * http://rustdt.github.io/
+  * https://rustdt.github.io/releases/
+  * https://github.com/RustDT/RustDT
+
 
 * Amazon Cloud
   * https://aws.amazon.com/eclipse/
