@@ -2,7 +2,7 @@ EclipseNotes
 ============
 
 Useful References
-* http://help.eclipse.org/mars/index.jsp
+* http://help.eclipse.org/neon/index.jsp
 
 
 I've been a long-time user of Eclipse - and this list has been my own internal running commentary (and helpfuul tickler file) to remind me of what I've installed when a version of Eclipse is released
@@ -47,8 +47,7 @@ Some Useful Links to Eclipse Plugins & Notes
 * Scala
   * http://scala-ide.org/
   * http://scala-ide.org/download/current.html
-  * http://download.scala-ide.org/sdk/lithium/e44/scala211/stable/site 
-
+  * http://download.scala-ide.org/sdk/lithium/e46/scala212/dev/site 
 
 
 * Python
