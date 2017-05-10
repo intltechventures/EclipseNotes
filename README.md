@@ -16,7 +16,6 @@ Some Useful Links to Eclipse Plugins & Notes
 
 
 [4.6 Neon](https://www.eclipse.org/projects/project-plan.php?planurl=http://www.eclipse.org/eclipse/development/plans/eclipse_project_plan_4_6.xml)
-
 ============
 
 * Spring
