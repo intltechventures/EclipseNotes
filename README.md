@@ -253,18 +253,18 @@ http://marketplace.eclipse.org/content/eclipse-4-tools-context-spy
 Groovy
 http://dist.springsource.org/release/GRECLIPSE/e4.3/
 
-Oracle OTN Software
+Oracle OTN Software  
 http://marketplace.eclipse.org/content/glassfish-tools-kepler
 http://download.oracle.com/otn_software/oepe/kepler
 
-Oracle Enterprise Pack for Eclipse (12.1.2.2)
+Oracle Enterprise Pack for Eclipse (12.1.2.2)  
 http://www.oracle.com/technetwork/developer-tools/eclipse/downloads/index.html
 http://download.oracle.com/otn_software/oepe/12.1.2.2/kepler/repository
 http://docs.oracle.com/cd/E47843_02/12121/OEPUG/install.htm
 http://docs.oracle.com/cd/E47843_02/12121/OEPUG/install.htm#CBHGAFJD
 http://www.oracle.com/technetwork/developer-tools/eclipse/downloads/index.html
 
-Android SDK ADT Plugin 
+Android SDK ADT Plugin   
 https://dl-ssl.google.com/android/eclipse/
 http://developer.android.com/sdk/installing/installing-adt.html
 
@@ -280,7 +280,7 @@ http://www.nodeclipse.org/updates/
 
 http://subclipse.tigris.org/update_1.10.x
 
-? - artifact not found? 5/31/2014
+? - artifact not found? 5/31/2014  
 http://releases.goclipse.googlecode.com/git/
 
 http://pydev.org/updates
@@ -290,32 +290,32 @@ http://pydev.org/nightly
 4.2 Juno
 ============
 
-Spring
+Spring  
 http://dist.springsource.org/release/GRECLIPSE/e4.2/
 
-Oracle OTN Software
+Oracle OTN Software  
 http://marketplace.eclipse.org/content/glassfish-java-ee-application-server-plugin-eclipse
-Oracle Enterprise Pack for Eclipse Juno
+Oracle Enterprise Pack for Eclipse Juno  
 http://download.oracle.com/otn_software/oepe/juno
 
 
-Oracle Event Processing Tools Update
+Oracle Event Processing Tools Update  
 http://download.oracle.com/technology/software/cep-ide/11/
 
 
-Maven Eclipse Plugin
+Maven Eclipse Plugin  
 http://download.eclipse.org/technology/m2e/releases 
 http://wiki.eclipse.org/Maven_Integration
 
-ASM plugin (Bytecode Analysis)
+ASM plugin (Bytecode Analysis)  
 ttp://download.forge.objectweb.org/eclipse-update/
 
 http://blog.jadira.co.uk/blog/2012/10/12/eclipse-juno.html
 
-QuantumDB 
+QuantumDB   
 http://quantum.sourceforge.net/update-site
 
-ERMaster 
+ERMaster  
 http://ermaster.sourceforge.net/update-site/
 
 Also, from the Mylyn for Eclipse Juno update site select all updates except Mylyn Builds SDK, Mylyn Commons SDK, Mylyn Context SDK, Mylyn Docs SDK, Mylyn EPUB SDK, Mylyn Reviews SDK, Mylyn Tasks SDK, Mylyn Tasks Tests SDK, Mylyn Versions SDK and Mylyn WikiText SDK).
@@ -325,19 +325,19 @@ Groovy Eclipse from http://dist.springsource.org/release/GRECLIPSE/e4.2/
 
 SpringSource Tool Suite for Eclipse Juno from http://dist.springsource.com/release/TOOLS/update/e4.2
 
-Install JBoss Tools (Indigo) from 
+Install JBoss Tools (Indigo) from   
 http://download.jboss.org/jbosstools/updates/nightly/core/trunk/ 
 
 . Go to "Window / Preferences / Maven / Discovery" and "Open Catalog". Select antlr, Axis Tools m2e, buildhelper, CheckStyle M2E, m2e-apt, m2e-jdt-compiler, PMD M2E, Tycho Configurator, m2e-egit, m2e-subclipse
 
-Android Development Tools 
+Android Development Tools   
 https://dl-ssl.google.com/android/eclipse/
 
-Download Jar Class Finder version 2.1.0 from 
+Download Jar Class Finder version 2.1.0 from   
 http://www.alphaworks.ibm.com/tech/jarclassfinder/download 
 and copy the Jar to the Eclipse/dropins/plugins subdirectory.
 
-Download Tarlog Plugin 1.4.2 from 
+Download Tarlog Plugin 1.4.2 from   
 http://code.google.com/p/tarlog-plugins/ 
 (I used tarlog.eclipse.plugins_1.4.2.jar) and copy the Jar to the Eclipse/dropins/plugins subdirectory.
 
@@ -345,115 +345,113 @@ http://download.eclipse.org/tools/ajdt/42/update/
 http://andrei.gmxhome.de/eclipse.html
 
 
-Markdown Editor
+Markdown Editor  
 http://winterwell.com/software/updatesite/
 
-Go
+Go  
 http://goclipse.googlecode.com/svn/trunk/goclipse-update-site/
 http://goclipse.googlecode.com/svn/trunk/goclipse-update-site/ 
 
 
-For Clojure Programming
+For Clojure Programming  
 http://ccw.cgrand.net/updatesite/
 http://code.google.com/p/counterclockwise/wiki/ReleaseNotes
 http://code.google.com/p/counterclockwise/wiki/Documentation#Install_Counterclockwise
 http://code.google.com/p/counterclockwise/
 
 
-StatET for R
+StatET for R  
 http://www.walware.de/goto/statet
 http://download.walware.de/eclipse-4.2
 http://download.walware.de/eclipse-4.3
 
 
-Eclipse 3.7 Indigo 
+Eclipse 3.7 Indigo   
 ============
 
 I'm still evaluating the compatibility of the following plugins...
 
-Subclipse
+Subclipse  
 http://subclipse.tigris.org/update_1.8.x
 
-Findbugs
+Findbugs  
 http://findbugs.cs.umd.edu/eclipse
 
-PMD
+PMD  
 http://pmd.sf.net/eclipse
 
-PyDev
+PyDev  
 http://pydev.org/updates
 
-CheckStyle
+CheckStyle  
 http://eclipse-cs.sf.net/update/
 
-Spring IDE
+Spring IDE  
 http://dist.springframework.org/release/IDE
 
 
-SQL Explorer
+SQL Explorer  
 http://eclipsesql.sourceforge.net/
 
-Scala IDE
+Scala IDE  
 http://download.scala-ide.org/releases-29/2.0.0-beta
-
-    * It appears that I'm encountering a similar problem as this recently reported Scala IDE defect:
-    (#1000447 IDE failing)
-    http://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1000447?comment=19263748
+* It appears that I'm encountering a similar problem as this recently reported Scala IDE defect: (#1000447 IDE failing)  
+* http://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1000447?comment=19263748
 
 
 
-Memory Analyzer
+Memory Analyzer  
 http://download.eclipse.org/mat/1.1/update-site
 
-Java Decompiler
+Java Decompiler  
 http://java.decompiler.free.fr/jd-eclipse/update
 
-Regex Testing Plugin
+Regex Testing Plugin  
 http://myregexp.com/eclipsePlugin.html
 http://regex-util.sourceforge.net/update/
 
-C++ Development
+C++ Development  
 http://download.eclipse.org/tools/cdt/releases/indigo
 
-PHP Development 
+PHP Development   
 http://download.eclipse.org/tools/pdt/updates/release
 
 
-2012-04-28 Update:
+2012-04-28 Update:  
 I recently added this tool (Toad) to my collection of useful Eclipse plugins
 http://community-downloads.quest.com/toadsoft/toadextensions/eclipse/freeware/
 
 
-2012-05-05 Update:
+2012-05-05 Update:  
 
-Recently added git plugin
+Recently added git plugin  
 http://download.eclipse.org/egit/updates 
 
-install git for Windows: 
+install git for Windows:   
 http://code.google.com/p/msysgit/downloads/list  
 
-2011-07-09 Installed with Eclipse 3.7 Indigo
-Findbugs
+2011-07-09 Installed with Eclipse 3.7 Indigo  
+Findbugs  
 http://findbugs.cs.umd.edu/eclipse 
 
-PMD
+PMD  
 http://pmd.sf.net/eclipse
 
-PyDev
+PyDev  
 http://pydev.org/updates
 
-CheckStyle
+CheckStyle  
 http://eclipse-cs.sf.net/update/
 
 http://dist.springframework.org/release/IDE
 
 
-SQL Explorer
+SQL Explorer  
 http://eclipsesql.sourceforge.net/
 
 http://download.scala-ide.org/releases-29/2.0.0-beta
 
-Memory Analyzer
+Memory Analyzer  
 http://download.eclipse.org/mat/1.1/update-site
 
 http://java.decompiler.free.fr/jd-eclipse/update 
@@ -547,5 +545,5 @@ http://marketplace.eclipse.org/content/tweaks
 
 http://marketplace.eclipse.org/content/scala-ide-eclipse
 
-CICS Explorer 
+CICS Explorer   
 http://public.dhe.ibm.com/software/htp/zos/2/1/0 
