@@ -15,7 +15,40 @@ TO-DO:
 Some Useful Links to Eclipse Plugins & Notes
 
 
-[4.6 Neon](https://www.eclipse.org/projects/project-plan.php?planurl=http://www.eclipse.org/eclipse/development/plans/eclipse_project_plan_4_6.xml)
+[4.7 Oxygen](http://help.eclipse.org/oxygen/index.jsp)
+============
+
+2018-01-13
+* I decided to wait about 6 months to upgrade to the the Eclipse 4.7 Oxygen release 
+* Work-in-progress, additional entries to be added...
+
+* Go Language Support
+  * https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation
+  * http://goclipse.github.io/releases/
+  * Note: as of 2018-01-13, this requires JDK 8
+ 
+
+* Spring Tool Suite (STS)
+	* http://dist.springsource.com/release/TOOLS/update/e4.7/
+	* https://docs.spring.io/sts/nan/v392/NewAndNoteworthy.html
+		* Note: includes support for JDK9 and JUnit 5 out of the box
+	* https://spring.io/guides
+
+	
+* Rust
+	*  https://rustdt.github.io/releases/
+	* https://github.com/RustDT/RustDT/blob/latest/documentation/Installation.md#installation
+	* Note: For Windows, requires Microsoft Visual Studio
+		* https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017
+	
+	
+
+* CDT (C/C++)
+	* Note: goclipse and rustdt both have dependencies on CDT
+	* http://intltechventures.blogspot.com/2016/03/2016-03-04-friday-gcc-gnu-compiler.html
+	
+
+[4.6 Neon](http://help.eclipse.org/neon/index.jsp)
 ============
 
 * Spring
