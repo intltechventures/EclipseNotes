@@ -1,13 +1,9 @@
 EclipseNotes
 ============
 
-Useful References
-* http://help.eclipse.org/neon/index.jsp
-
-
 I've been a long-time user of Eclipse - and this list has been my own internal running commentary (and helpfuul tickler file) to remind me of what I've installed when a version of Eclipse is released
 
-TO-DO:
+Possible future TO-DOs:
 * Clean-up the lists
 * Consider breaking the material out into separate files, for a given Eclipse release
 
@@ -20,6 +16,9 @@ Some Useful Links to Eclipse Plugins & Notes
 
 I decided to wait about 6 months to upgrade to the the Eclipse 4.7 Oxygen release 
 2018-01-13...Work-in-progress, additional entries to be added...
+
+Useful References
+* http://help.eclipse.org/oxygen/index.jsp
 
 * Go Language Support
   * https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation
@@ -49,6 +48,9 @@ I decided to wait about 6 months to upgrade to the the Eclipse 4.7 Oxygen releas
 
 [4.6 Neon](http://help.eclipse.org/neon/index.jsp)
 ============
+
+Useful References
+* http://help.eclipse.org/neon/index.jsp
 
 * Spring
   * https://spring.io/tools/sts/all
