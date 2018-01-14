@@ -18,9 +18,8 @@ Some Useful Links to Eclipse Plugins & Notes
 [4.7 Oxygen](http://help.eclipse.org/oxygen/index.jsp)
 ============
 
-2018-01-13
-* I decided to wait about 6 months to upgrade to the the Eclipse 4.7 Oxygen release 
-* Work-in-progress, additional entries to be added...
+I decided to wait about 6 months to upgrade to the the Eclipse 4.7 Oxygen release 
+2018-01-13...Work-in-progress, additional entries to be added...
 
 * Go Language Support
   * https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation
