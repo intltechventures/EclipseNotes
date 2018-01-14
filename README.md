@@ -38,6 +38,7 @@ Useful References
 	* https://github.com/RustDT/RustDT/blob/latest/documentation/Installation.md#installation
 	* Note: For Windows, requires Microsoft Visual Studio
 		* https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017
+		* https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=15
 	
 	
 
