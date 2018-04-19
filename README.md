@@ -20,6 +20,9 @@ I decided to wait about 6 months to upgrade to the the Eclipse 4.7 Oxygen releas
 Useful References
 * http://help.eclipse.org/oxygen/index.jsp
 
+Java 10 Support
+* https://wiki.eclipse.org/Java10/Examples
+
 * Go Language Support
   * https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation
   * http://goclipse.github.io/releases/
@@ -35,6 +38,7 @@ Useful References
 	
 * Rust
 	*  https://rustdt.github.io/releases/
+		* Notes: as of 2018-01-13, this requires JDK 8
 	* https://github.com/RustDT/RustDT/blob/latest/documentation/Installation.md#installation
 	* Note: For Windows, requires Microsoft Visual Studio
 		* https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017
