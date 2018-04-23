@@ -10,6 +10,13 @@ Possible future TO-DOs:
 
 Some Useful Links to Eclipse Plugins & Notes
 
+[4.8 Photon](http://www.eclipse.org/documentation/)
+
+News
+* https://www.eclipse.org/eclipse/news/4.8/
+* https://www.infoq.com/news/2018/04/eclipse-photon
+
+
 
 [4.7 Oxygen](http://help.eclipse.org/oxygen/index.jsp)
 ============
