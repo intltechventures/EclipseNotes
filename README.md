@@ -33,7 +33,7 @@ Java 10 Support
 * Go Language Support
   * https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation
   * http://goclipse.github.io/releases/
-  * Note: as of 2018-01-13, this requires JDK 8
+  * Note: as of 2018-04-29, this requires Java 8
  
 
 * Spring Tool Suite (STS)
@@ -45,7 +45,7 @@ Java 10 Support
 	
 * Rust
 	*  https://rustdt.github.io/releases/
-		* Notes: as of 2018-01-13, this requires JDK 8
+		* Notes: as of 2018-04-30, this requires Java 8
 	* https://github.com/RustDT/RustDT/blob/latest/documentation/Installation.md#installation
 	* Note: For Windows, requires Microsoft Visual Studio
 		* https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017
