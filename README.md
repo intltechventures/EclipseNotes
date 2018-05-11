@@ -22,7 +22,8 @@ News
 ============
 
 I decided to wait about 6 months to upgrade to the the Eclipse 4.7 Oxygen release 
-2018-01-13...Work-in-progress, additional entries to be added...
+2018-05-10...So far, I've been fairly pleased with this collection of plugins
+
 
 Useful References
 * http://help.eclipse.org/oxygen/index.jsp
@@ -51,12 +52,16 @@ Java 10 Support
 		* https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2017
 		* https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=15
 	
-	
 
 * CDT (C/C++)
 	* Note: goclipse and rustdt both have dependencies on CDT
 	* http://intltechventures.blogspot.com/2016/03/2016-03-04-friday-gcc-gnu-compiler.html
 	
+
+* GitHub Flavored Markdown viewer plugin (2018-05-10 Evaluating)
+  * https://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin
+
+
 
 [4.6 Neon](http://help.eclipse.org/neon/index.jsp)
 ============
