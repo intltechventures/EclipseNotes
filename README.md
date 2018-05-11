@@ -60,7 +60,7 @@ Java 10 Support
 
 * GitHub Flavored Markdown viewer plugin (2018-05-10 Evaluating)
   * https://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin
-
+  * https://github.com/satyagraha/gfm_viewer
 
 
 [4.6 Neon](http://help.eclipse.org/neon/index.jsp)
