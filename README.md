@@ -135,6 +135,15 @@ Useful References
     * https://bugs.eclipse.org/bugs/attachment.cgi?id=262418&action=edit
 
 
+TO EVALUTE:
+* https://docs.emmet.io/
+  * https://github.com/emmetio/emmet-eclipse#readme
+  * http://emmet.io
+  * Emmet is a toolkit for high-speed HTML, XML, XSL (or any other structured code format) coding and editing. The core of this plugin is a powerful abbreviation engine which allows you to expand expressions—similar to CSS selectors—into HTML code.
+
+
+
+
 4.5 Mars
 ============
 
