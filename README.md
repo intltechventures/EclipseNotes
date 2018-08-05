@@ -63,6 +63,14 @@ Java 10 Support
   * https://github.com/satyagraha/gfm_viewer
 
 
+* Sublclipse
+  * https://github.com/subclipse/subclipse/wiki
+  * https://github.com/subclipse/subclipse
+  * https://dl.bintray.com/subclipse/releases/subclipse/latest/
+
+
+
+
 [4.6 Neon](http://help.eclipse.org/neon/index.jsp)
 ============
 
