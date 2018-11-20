@@ -1,5 +1,5 @@
 EclipseNotes
-============
+====
 
 I've been a long-time user of Eclipse - and this list has been my own internal running commentary (and helpfuul tickler file) to remind me of what I've installed when a version of Eclipse is released
 
@@ -10,7 +10,18 @@ Possible future TO-DOs:
 
 Some Useful Links to Eclipse Plugins & Notes
 
-[4.8 Photon](http://www.eclipse.org/documentation/)
+
+### 4.9 
+* Installed October 2018
+
+News
+* https://www.eclipse.org/eclipse/news/4.9/
+* https://projects.eclipse.org/projects/eclipse/releases/4.9.0
+* https://www.eclipse.org/downloads/packages/release/2018-09/r
+
+
+
+### [4.8 Photon](http://www.eclipse.org/documentation/)
 
 News
 * https://www.eclipse.org/eclipse/news/4.8/
@@ -18,8 +29,7 @@ News
 
 
 
-[4.7 Oxygen](http://help.eclipse.org/oxygen/index.jsp)
-============
+### [4.7 Oxygen](http://help.eclipse.org/oxygen/index.jsp)
 
 I decided to wait about 6 months to upgrade to the the Eclipse 4.7 Oxygen release 
 2018-05-10...So far, I've been fairly pleased with this collection of plugins
@@ -69,10 +79,19 @@ Java 10 Support
   * https://dl.bintray.com/subclipse/releases/subclipse/latest/
 
 
+* Python
+  * http://www.pydev.org
+  * http://pydev.org/updates
+  
+ 
+* Amazon Cloud
+  * https://aws.amazon.com/eclipse/
 
 
-[4.6 Neon](http://help.eclipse.org/neon/index.jsp)
-============
+
+  
+
+### [4.6 Neon](http://help.eclipse.org/neon/index.jsp)
 
 Useful References
 * http://help.eclipse.org/neon/index.jsp
@@ -152,8 +171,7 @@ TO EVALUTE:
 
 
 
-4.5 Mars
-============
+### 4.5 Mars
 
 http://download.eclipse.org/tools/cdt/releases/8.8.1
 
@@ -191,7 +209,6 @@ TO EVALUATE:
 
 
 4.4 Luna
-============
 
 INSTALLED:
 
@@ -314,8 +331,7 @@ http://marketplace.eclipse.org/content/powershelleditor
 http://marketplace.eclipse.org/content/eclipse-4-tools-context-spy
 
 
-4.3 Kepler
-============
+### 4.3 Kepler
 
 Groovy
 http://dist.springsource.org/release/GRECLIPSE/e4.3/
@@ -354,8 +370,7 @@ http://pydev.org/updates
 http://pydev.org/nightly
 
 
-4.2 Juno
-============
+### 4.2 Juno
 
 Spring  
 http://dist.springsource.org/release/GRECLIPSE/e4.2/
@@ -433,8 +448,7 @@ http://download.walware.de/eclipse-4.2
 http://download.walware.de/eclipse-4.3
 
 
-Eclipse 3.7 Indigo   
-============
+### 3.7 Indigo   
 
 I'm still evaluating the compatibility of the following plugins...
 
@@ -530,8 +544,7 @@ http://download.eclipse.org/tools/cdt/releases/indigo
 
 
 
-Keep An Eye On These...
-============
+### Keep An Eye On These...
 
 http://download.eclipse.org/technology/linuxtools/update
 
@@ -570,8 +583,7 @@ http://marketplace.eclipse.org/content/hibernate-tools-0
 http://code.google.com/eclipse/docs/getting_started.html
 
 
-to consider...
-============
+### to consider...of possible utility at some point in the future...
 
 http://graysky.sourceforge.net/
 
