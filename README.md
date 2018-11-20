@@ -21,6 +21,15 @@ News
 * https://www.eclipse.org/downloads/packages/release/2018-09/r
 
 
+Eclipse 4.9 Update Site 
+* http://download.eclipse.org/eclipse/updates/4.9-P-builds/
+
+
+
+JDK 11 Support
+* https://marketplace.eclipse.org/content/java-11-support-eclipse-2018-09-49 
+
+
 Go
 * http://goclipse.github.io/releases/
 
@@ -30,6 +39,11 @@ Spring Tool Suite™ 3
 * https://spring.io/tools3/sts/all
 * https://spring.io/guides
 
+
+Github Flavored Markdown
+* https://raw.github.com/satyagraha/gfm_viewer/master/p2-composite/
+* https://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin#group-details
+* https://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin-eclipse
 
 
 
