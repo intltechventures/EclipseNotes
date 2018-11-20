@@ -11,8 +11,9 @@ Possible future TO-DOs:
 Some Useful Links to Eclipse Plugins & Notes
 
 
-### 4.9 
-* Installed October 2018
+### [4.9](http://help.eclipse.org/2018-09/index.jsp)    
+Installed October 2018
+
 
 News
 * https://www.eclipse.org/eclipse/news/4.9/
@@ -20,12 +21,25 @@ News
 * https://www.eclipse.org/downloads/packages/release/2018-09/r
 
 
+Go
+* http://goclipse.github.io/releases/
 
-### [4.8 Photon](http://www.eclipse.org/documentation/)
+
+Spring Tool Suite™ 3
+* http://download.springsource.com/release/TOOLS/update/e4.9/
+* https://spring.io/tools3/sts/all
+* https://spring.io/guides
+
+
+
+
+
+### [4.8 Photon](http://help.eclipse.org/photon/index.jsp)
 
 News
 * https://www.eclipse.org/eclipse/news/4.8/
 * https://www.infoq.com/news/2018/04/eclipse-photon
+
 
 
 
