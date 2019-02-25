@@ -49,8 +49,12 @@ Github Flavored Markdown
 Subversive 
 * https://www.eclipse.org/subversive/latest-releases.php
   * http://download.eclipse.org/technology/subversive/4.0/update-site/
-  * NOTE: Also installed the Native JavaHL 1.9.3 SVN Connector 
+    * NOTE: Also installed the Native JavaHL 1.9.3 SVN Connector 
 
+
+PHP Development Tools 6.1
+* https://www.eclipse.org/pdt/
+  * http://download.eclipse.org/tools/pdt/updates/6.1
 
 
 
