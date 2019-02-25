@@ -46,6 +46,12 @@ Github Flavored Markdown
 * https://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin-eclipse
 
 
+Subversive 
+* https://www.eclipse.org/subversive/latest-releases.php
+  * http://download.eclipse.org/technology/subversive/4.0/update-site/
+  * NOTE: Also installed the Native JavaHL 1.9.3 SVN Connector 
+
+
 
 
 ### [4.8 Photon](http://help.eclipse.org/photon/index.jsp)
