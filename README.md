@@ -1,17 +1,28 @@
-EclipseNotes
-====
+# My Eclipse Notes
 
-I've been a long-time user of Eclipse - and this list has been my own internal running commentary (and helpfuul tickler file) to remind me of what I've installed when a version of Eclipse is released
+- I've been a long-time user of Eclipse - and this list has been my own internal running commentary (and helpfuul tickler file) to remind me of what I've installed when a version of Eclipse is released
 
-Possible future TO-DOs:
-* Clean-up the lists
-* Consider breaking the material out into separate files, for a given Eclipse release
-
-
-Some Useful Links to Eclipse Plugins & Notes
+- Possible future TO-DOs:
+  + Clean-up the lists
+  + Consider breaking the material out into separate files, for a given Eclipse release
 
 
-### [4.9](http://help.eclipse.org/2018-09/index.jsp)    
+- Some Useful Links to Eclipse Plugins & Notes
+
+## [4.11 - 2019-03](https://help.eclipse.org/2019-03/index.jsp) - [download](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2019-03/R/eclipse-inst-win64.exe)
+
+- JSON Editor Plugin
+  + https://marketplace.eclipse.org/content/json-editor-plugin
+  + https://github.com/boothen/Json-Eclipse-Plugin
+    * See Youtube demo: https://www.youtube.com/watch?v=vXRwFwk2QE4
+  + Plugin Install site:
+    * http://boothen.github.io/Json-Eclipse-Plugin/
+  + NOTES:
+    * Last update on github appears to have been on 2019-03-03 
+    * Testing this with Java JDK 12, on a Windows 10 laptop - it appears that JSON Schema validation working properly - even after registering the file pattern and schema URL via ```Window > Preferences > JSON > JSON Catalog``` 
+
+
+## [4.9](http://help.eclipse.org/2018-09/index.jsp)    
 Installed October 2018
 
 
@@ -46,7 +57,14 @@ Github Flavored Markdown
 * https://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin-eclipse
 
 
-Subversive 
+
+Subclipse
+* https://github.com/subclipse/subclipse/wiki
+  * https://dl.bintray.com/subclipse/releases/subclipse/latest/
+
+
+
+Subversive - * * * DO NOT USE * * *
 * https://www.eclipse.org/subversive/latest-releases.php
   * http://download.eclipse.org/technology/subversive/4.0/update-site/
     * NOTE: Also installed the Native JavaHL 1.9.3 SVN Connector 
@@ -58,7 +76,7 @@ PHP Development Tools 6.1
 
 
 
-### [4.8 Photon](http://help.eclipse.org/photon/index.jsp)
+## [4.8 Photon](http://help.eclipse.org/photon/index.jsp)
 
 News
 * https://www.eclipse.org/eclipse/news/4.8/
@@ -67,7 +85,7 @@ News
 
 
 
-### [4.7 Oxygen](http://help.eclipse.org/oxygen/index.jsp)
+## [4.7 Oxygen](http://help.eclipse.org/oxygen/index.jsp)
 
 I decided to wait about 6 months to upgrade to the the Eclipse 4.7 Oxygen release 
 2018-05-10...So far, I've been fairly pleased with this collection of plugins
@@ -129,7 +147,7 @@ Java 10 Support
 
   
 
-### [4.6 Neon](http://help.eclipse.org/neon/index.jsp)
+## [4.6 Neon](http://help.eclipse.org/neon/index.jsp)
 
 Useful References
 * http://help.eclipse.org/neon/index.jsp
@@ -209,7 +227,7 @@ TO EVALUTE:
 
 
 
-### 4.5 Mars
+## 4.5 Mars
 
 http://download.eclipse.org/tools/cdt/releases/8.8.1
 
@@ -369,7 +387,7 @@ http://marketplace.eclipse.org/content/powershelleditor
 http://marketplace.eclipse.org/content/eclipse-4-tools-context-spy
 
 
-### 4.3 Kepler
+## 4.3 Kepler
 
 Groovy
 http://dist.springsource.org/release/GRECLIPSE/e4.3/
@@ -408,7 +426,7 @@ http://pydev.org/updates
 http://pydev.org/nightly
 
 
-### 4.2 Juno
+## 4.2 Juno
 
 Spring  
 http://dist.springsource.org/release/GRECLIPSE/e4.2/
@@ -486,7 +504,7 @@ http://download.walware.de/eclipse-4.2
 http://download.walware.de/eclipse-4.3
 
 
-### 3.7 Indigo   
+## 3.7 Indigo   
 
 I'm still evaluating the compatibility of the following plugins...
 
@@ -582,7 +600,7 @@ http://download.eclipse.org/tools/cdt/releases/indigo
 
 
 
-### Keep An Eye On These...
+## Keep An Eye On These...
 
 http://download.eclipse.org/technology/linuxtools/update
 
@@ -621,7 +639,7 @@ http://marketplace.eclipse.org/content/hibernate-tools-0
 http://code.google.com/eclipse/docs/getting_started.html
 
 
-### to consider...of possible utility at some point in the future...
+## to consider...of possible utility at some point in the future...
 
 http://graysky.sourceforge.net/
 
