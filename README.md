@@ -10,6 +10,7 @@
 - Some Useful Links to Eclipse Plugins & Notes
 
 ## [4.11 - 2019-03](https://help.eclipse.org/2019-03/index.jsp) - [download](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2019-03/R/eclipse-inst-win64.exe)
+(installed April 2019)    
 
 - JSON Editor Plugin
   + https://marketplace.eclipse.org/content/json-editor-plugin
@@ -19,7 +20,7 @@
     * http://boothen.github.io/Json-Eclipse-Plugin/
   + NOTES:
     * Last update on github appears to have been on 2019-03-03 
-    * Testing this with Java JDK 12, on a Windows 10 laptop - it appears that JSON Schema validation working properly - even after registering the file pattern and schema URL via ```Window > Preferences > JSON > JSON Catalog``` 
+    * Testing this with Java JDK 12, on a Windows 10 laptop - it appears that JSON Schema Validation __IS NOT WORKING__ - even after registering the file pattern and schema URL via ```Window > Preferences > JSON > JSON Catalog``` 
 
 
 ## [4.9](http://help.eclipse.org/2018-09/index.jsp)    
