@@ -26,6 +26,7 @@
   + NOTES:
     * Last update on github appears to have been on 2019-03-03 
     * Testing this with Java JDK 12, on a Windows 10 laptop - it appears that JSON Schema Validation __IS NOT WORKING when this plugin is installed___ -  even after registering the file pattern and schema URL via ```Window > Preferences > JSON > JSON Catalog``` 
+  + Issue #26 submitted: [Blocks JSON Schema Validation in Eclipse v4.11 (release 2019-03)](https://github.com/boothen/Json-Eclipse-Plugin/issues/26)
 
 
 ## [4.9](http://help.eclipse.org/2018-09/index.jsp)    
