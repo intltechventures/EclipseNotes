@@ -12,6 +12,11 @@
 ## [4.11 - 2019-03](https://help.eclipse.org/2019-03/index.jsp) - [download](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2019-03/R/eclipse-inst-win64.exe)
 (installed April 2019)    
 
+- JSON Schema Validation
+  + I've experienced some type of failure of validation - which I suspect is possibly due to some URL length limitation...I will do additional testing - and when I have assembled all of the results of my test cases - will submit a defect report, if warranted.
+  + I've also observed that when a JSON file issue is corrected - that the validation error is still being reported - even after restarting - only when I type in a space and save the file again - does it seem to be cleared...
+  + I've confirmed that pointing the JSON Catalog Entry URL works for both ```http://``` and ```file:/C:/```
+
 - JSON Editor Plugin
   + https://marketplace.eclipse.org/content/json-editor-plugin
   + https://github.com/boothen/Json-Eclipse-Plugin
@@ -20,7 +25,7 @@
     * http://boothen.github.io/Json-Eclipse-Plugin/
   + NOTES:
     * Last update on github appears to have been on 2019-03-03 
-    * Testing this with Java JDK 12, on a Windows 10 laptop - it appears that JSON Schema Validation __IS NOT WORKING__ - even after registering the file pattern and schema URL via ```Window > Preferences > JSON > JSON Catalog``` 
+    * Testing this with Java JDK 12, on a Windows 10 laptop - it appears that JSON Schema Validation __IS NOT WORKING when this plugin is installed___ -  even after registering the file pattern and schema URL via ```Window > Preferences > JSON > JSON Catalog``` 
 
 
 ## [4.9](http://help.eclipse.org/2018-09/index.jsp)    
