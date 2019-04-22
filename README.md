@@ -19,7 +19,7 @@
 
 - JSON Schema Validation
   + Bug submitted: [#546541 UnsupportedOperationException: Not a string: {"type":"string","format":"uri-reference"} thrown by JsonValue.java](https://bugs.eclipse.org/bugs/show_bug.cgi?id=546541)
-    + It appears that specifying ```draft-07```, ```draft-06```, or ```draft-04``` in the $schema URI - results in an exception being thrown (see my bug submission above)
+    + It appears that specifying ```draft-07```, ```draft-06```, or ```draft-05``` in the $schema URI - results in an exception being thrown (see my bug submission above)
     + Specifying ```draft-04``` appears to work - and no exception is thrown. I also posted this info to stackoverflow - and created a blog posting to document my findings:
       * https://stackoverflow.com/questions/55719672/ecipse-v4-11-release-2019-03-not-a-string-typestring-formaturi-r
       * https://intltechventures.blogspot.com/2019/04/2019-04-20-saturday-eclipse-ide-v411.html
