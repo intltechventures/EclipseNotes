@@ -64,6 +64,14 @@ JDK 11 Support
 
 Go
 * http://goclipse.github.io/releases/
+  * http://goclipse.github.io/
+  * https://github.com/GoClipse/goclipse
+    * http://pureconcepture.blogspot.com/2017/07/goodbye-to-eclipse-end-of-era-for.html
+    * "As of 2017, Goclipse is no longer actively maintained"
+    * "For several years now, Eclipse has been declining in popularity, and in my opinion also declining in comparative quality to other IDEs. I've seen the issues Eclipse has, both external (functionality, UI design, bugs), and internal (code debt, shortage of manpower). I was holding on to the hope it would recover, but now I don't see much of a future for Eclipse other than a legacy existence, and I realize exiting was long overdue."
+    * "Google abandoning Eclipse was the wake-up call that prompted me to re-evaluate my career path"
+    * https://www.eclipse.org/lists/platform-ui-dev/msg07744.html
+      * "Eclipse usage within Google has dropped to the point where it no longer makes sense to have a team of engineers contributing to the Eclipse project."
 
 
 Spring Tool Suite™ 3
