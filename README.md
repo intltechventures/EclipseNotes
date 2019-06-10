@@ -9,6 +9,17 @@
 
 - Some Useful Links to Eclipse Plugins & Notes
 
+
+## 2019-06-09 Update
+Given the impressive growth and expansion within the Vistual Studio Code marketplace - to support Open Source tools and languages - I am making a decision to shift my primary coding to use the Microsfot Visual Studio Code - and Micorosfot Visual Studio 2017/2019 IDEs.
+     
+I feel that Eclipse as a platform has chosen a path toward ruin. Given the increased pace of their releases - that habitually break older plugins - I can no longer, in good faith, recommend it as a tool for my clients. In the last few years, I have grown increasingly frustrated with the level of pain it represents - for an increasingly diminishing value proposition. It is a sad ending - and I have too long been relunctant to make a final decision to switch. 
+     
+I may, from time-to-time, come back and experiment with Eclipse - and if I find some useful plugins - that are uniquely, and only, available within the Eclipse - I will likely add some new sections to this document. 
+
+
+
+
 ## [4.11 - 2019-03](https://help.eclipse.org/2019-03/index.jsp) - [download](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2019-03/R/eclipse-inst-win64.exe)
 (installed April 2019)    
 
