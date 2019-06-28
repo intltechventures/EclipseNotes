@@ -113,6 +113,9 @@ PHP Development Tools 6.1
 * https://www.eclipse.org/pdt/
   * http://download.eclipse.org/tools/pdt/updates/6.1
 
+Python 
+- http://pydev.org/updates
+
 
 
 ## [4.8 Photon](http://help.eclipse.org/photon/index.jsp)
