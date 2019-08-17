@@ -24,7 +24,10 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - [What's New](https://help.eclipse.org/2019-06/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp=0_6)
 
 
-
+__THIS IS JUST CRAP ARCHITECTURE__
+- Upgrading Eclipse:
+  + https://help.eclipse.org/2019-06/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-2.htm&cp=0_3_1
+    * ```"If you have installed extra plug-ins in your Eclipse environment, you will need to add these new plug-ins to each new build or version of Eclipse you install."```
 
 
 
