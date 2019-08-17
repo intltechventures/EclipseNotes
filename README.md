@@ -19,6 +19,16 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
+## [4.12 - 2019-06](https://help.eclipse.org/2019-06/index.jsp) - [download](https://www.eclipse.org/downloads/packages/installer)
+- https://www.eclipse.org/eclipseide/2019-06/noteworthy/
+- [What's New](https://help.eclipse.org/2019-06/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp=0_6)
+
+
+
+
+
+
+
 ## [4.11 - 2019-03](https://help.eclipse.org/2019-03/index.jsp) - [download](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2019-03/R/eclipse-inst-win64.exe)
 (installed April 2019)    
 
