@@ -9,6 +9,12 @@
 
 - Some Useful Links to Eclipse Plugins & Notes
 
+- https://www.eclipse.org/
+  + https://www.eclipse.org/downloads/packages/compare
+  + https://www.eclipse.org/downloads/
+    * https://www.eclipse.org/downloads/packages/
+
+
 
 ## 2019-06-09 Update - "Good-bye, Eclipse"
 Given the impressive growth and expansion within the Vistual Studio Code marketplace - to support Open Source tools and languages - I am making a decision to shift my primary coding to use the Microsfot Visual Studio Code - and Micorosfot Visual Studio 2017/2019 IDEs.
@@ -16,6 +22,19 @@ Given the impressive growth and expansion within the Vistual Studio Code marketp
 I feel that Eclipse as a platform has chosen a path toward ruin. Given the increased pace of their releases - that habitually break older plugins - I can no longer, in good faith, recommend it as a tool for my clients. In the last few years, I have grown increasingly frustrated with the level of pain it represents - for an increasingly diminishing value proposition. It is a sad ending - and I have too long been relunctant to make a final decision to switch. 
      
 I may, from time-to-time, come back and experiment with Eclipse - and if I find some useful plugins - that are uniquely, and only, available within the Eclipse ecosphere - I will likely add some new sections to this document. 
+
+
+
+
+## [4.13 - 2019-09](https://help.eclipse.org/2019-09/index.jsp) - [download](
+- https://www.eclipse.org/eclipse/news/4.13/
+- [What's New](https://help.eclipse.org/2019-09/topic/org.eclipse.platform.doc.user/whatsNew/platform_whatsnew.html?cp=0_6)
+
+- NOTE:
+  + https://www.eclipse.org/eclipse/news/4.13/
+    * "Windows 10 users: Windows 10 Defender significantly slows down Eclipse, reason being Windows 10 Defender scanning the JAR files. The problem has been reported to Microsoft here. Until then, a workaround to this problem is to add Eclipse root directory to Windows 10 Defender's exclusion list, detailed steps are shared here."
+      * https://bugs.eclipse.org/bugs/show_bug.cgi?id=548443
+        * https://bugs.eclipse.org/bugs/show_bug.cgi?id=548443#c28
 
 
 
