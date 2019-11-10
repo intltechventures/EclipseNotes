@@ -30,6 +30,10 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - https://www.eclipse.org/eclipse/news/4.13/
 - [What's New](https://help.eclipse.org/2019-09/topic/org.eclipse.platform.doc.user/whatsNew/platform_whatsnew.html?cp=0_6)
 
+- Java 13 Support for Eclipse 2019-09 (4.13)
+  + https://marketplace.eclipse.org/content/java-13-support-eclipse-2019-09-413
+
+
 - NOTE:
   + https://www.eclipse.org/eclipse/news/4.13/
     * "Windows 10 users: Windows 10 Defender significantly slows down Eclipse, reason being Windows 10 Defender scanning the JAR files. The problem has been reported to Microsoft here. Until then, a workaround to this problem is to add Eclipse root directory to Windows 10 Defender's exclusion list, detailed steps are shared here."
