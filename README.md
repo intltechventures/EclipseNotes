@@ -33,6 +33,10 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - Java 13 Support for Eclipse 2019-09 (4.13)
   + https://marketplace.eclipse.org/content/java-13-support-eclipse-2019-09-413
 
+- Kotlin Plugin
+  + http://marketplace.eclipse.org/content/kotlin-plugin-eclipse
+
+
 
 - NOTE:
   + https://www.eclipse.org/eclipse/news/4.13/
