@@ -36,13 +36,23 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - Kotlin Plugin
   + http://marketplace.eclipse.org/content/kotlin-plugin-eclipse
 
-
-
 - NOTE:
   + https://www.eclipse.org/eclipse/news/4.13/
     * "Windows 10 users: Windows 10 Defender significantly slows down Eclipse, reason being Windows 10 Defender scanning the JAR files. The problem has been reported to Microsoft here. Until then, a workaround to this problem is to add Eclipse root directory to Windows 10 Defender's exclusion list, detailed steps are shared here."
       * https://bugs.eclipse.org/bugs/show_bug.cgi?id=548443
         * https://bugs.eclipse.org/bugs/show_bug.cgi?id=548443#c28
+
+
+- Python IDE, PyDev
+  + http://www.pydev.org/
+    * http://www.pydev.org/manual.html
+    * http://www.pydev.org/manual_101_root.html
+    * http://www.pydev.org/manual_adv_features.html
+  + https://github.com/fabioz/Pydev
+  + http://pydev.blogspot.com/
+  + https://marketplace.eclipse.org/content/pydev-python-ide-eclipse
+    * http://www.pydev.org/updates/
+
 
 
 
