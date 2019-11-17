@@ -30,6 +30,9 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - https://www.eclipse.org/eclipse/news/4.13/
 - [What's New](https://help.eclipse.org/2019-09/topic/org.eclipse.platform.doc.user/whatsNew/platform_whatsnew.html?cp=0_6)
 
+- Like a moth drawn to a flame, I find it very hard to quit Eclipse. Hope springs eternal that they will clean-up their act.
+
+
 - Java 13 Support for Eclipse 2019-09 (4.13)
   + https://marketplace.eclipse.org/content/java-13-support-eclipse-2019-09-413
 
@@ -54,6 +57,35 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
     * http://www.pydev.org/updates/
 
 
+- To Evaluate:
+  + https://marketplace.eclipse.org/content/ruby-solargraph
+  + https://marketplace.eclipse.org/content/bash-editor
+  + https://marketplace.eclipse.org/content/groovy-development-tools
+  + https://marketplace.eclipse.org/content/go-codemix
+  + https://marketplace.eclipse.org/content/php-codemix
+  + https://marketplace.eclipse.org/content/python-codemix
+  + https://marketplace.eclipse.org/content/abap-search-and-analysis-tools
+  + https://marketplace.eclipse.org/content/checkstyle-plug
+  + https://marketplace.eclipse.org/content/jhipster-ide
+  + https://marketplace.eclipse.org/content/jdeodorant
+  + https://marketplace.eclipse.org/content/sql-dal-maker
+  + https://marketplace.eclipse.org/content/code-compare
+  + https://marketplace.eclipse.org/content/jboss-tools
+  + https://marketplace.eclipse.org/content/red-hat-codeready-studio-formerly-developer-studio
+  + https://marketplace.eclipse.org/content/o3smeasures
+  + https://marketplace.eclipse.org/content/azure-toolkit-eclipse
+  + https://marketplace.eclipse.org/content/dbeaver
+  + https://marketplace.eclipse.org/content/plsql-workbench
+  + https://marketplace.eclipse.org/content/dbeaver-sql-debugger
+  + https://marketplace.eclipse.org/content/eclipse-dtp-data-tools-platform
+  + https://marketplace.eclipse.org/content/eclipse-pmd
+  + https://marketplace.eclipse.org/content/nodeclipsegithubio
+  + https://marketplace.eclipse.org/content/jrebel-eclipse
+  + https://marketplace.eclipse.org/content/featureide
+  + https://marketplace.eclipse.org/content/pmd-eclipse-plugin
+  + https://marketplace.eclipse.org/content/pgcodekeeper
+
+
 
 
 ## [4.12 - 2019-06](https://help.eclipse.org/2019-06/index.jsp) - [download](https://www.eclipse.org/downloads/packages/installer)
@@ -65,7 +97,7 @@ __THIS IS JUST CRAP ARCHITECTURE__
 - Upgrading Eclipse:
   + https://help.eclipse.org/2019-06/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-2.htm&cp=0_3_1
     * ```"If you have installed extra plug-ins in your Eclipse environment, you will need to add these new plug-ins to each new build or version of Eclipse you install."```
-
+i   * You should be able to click a button and install in-place, and there should be a centralized Eclipse Plugin Upgrade Data Hub - which would look-up and replace the URLs for the plugins. This isn't rocket science.
 
 
 
