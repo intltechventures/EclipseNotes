@@ -25,9 +25,17 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
+## [4.14 -2019-12](https://help.eclipse.org/2019-12/index.jsp) - [download](https://www.eclipse.org/eclipseide/2019-12/)
+- [Eclipse 4.14 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.14/)
 
-## [4.13 - 2019-09](https://help.eclipse.org/2019-09/index.jsp) - [download](
-- https://www.eclipse.org/eclipse/news/4.13/
+- Kotlin Plugin
+  + http://marketplace.eclipse.org/content/kotlin-plugin-eclipse
+    *  https://dl.bintray.com/jetbrains/kotlin/eclipse-plugin/last/
+
+
+
+## [4.13 - 2019-09](https://help.eclipse.org/2019-09/index.jsp) - [download](https://www.eclipse.org/eclpseide/2019-09/)
+- [Eclipse 4.13 - News & Noteworhty](https://www.eclipse.org/eclipse/news/4.13/)
 - [What's New](https://help.eclipse.org/2019-09/topic/org.eclipse.platform.doc.user/whatsNew/platform_whatsnew.html?cp=0_6)
 
 - Like a moth drawn to a flame, I find it very hard to quit Eclipse. Hope springs eternal that they will clean-up their act.
@@ -84,8 +92,6 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
   + https://marketplace.eclipse.org/content/featureide
   + https://marketplace.eclipse.org/content/pmd-eclipse-plugin
   + https://marketplace.eclipse.org/content/pgcodekeeper
-
-
 
 
 ## [4.12 - 2019-06](https://help.eclipse.org/2019-06/index.jsp) - [download](https://www.eclipse.org/downloads/packages/installer)
