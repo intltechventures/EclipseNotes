@@ -33,6 +33,14 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
     * https://dist.springsource.org/release/GRECLIPSE/e4.15
 
 
+- Eclipse StatET Plugin (Tooling for the R language)
+  + https://marketplace.eclipse.org/content/statet-r
+    * https://projects.eclipse.org/projects/science.statet
+      * https://download.eclipse.org/statet/releases/4.1/E201912
+
+
+
+
 
 ## [4.14 -2019-12](https://help.eclipse.org/2019-12/index.jsp) - [download](https://www.eclipse.org/eclipseide/2019-12/)
 - [Eclipse 4.14 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.14/)
