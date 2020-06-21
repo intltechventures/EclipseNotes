@@ -30,6 +30,10 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 - 2020-06-20 - Installed on my laptop
 
+- [From the Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.16.php)
+  + "Eclipse must be installed to a clean directory and not installed over top of a previous installation."
+
+
 
 
 ## [4.15 - 2020-03](https://help.eclipse.org/2020-03/index.jsp) - [download](https://www.eclipse.org/eclipseide/2020-03/)
