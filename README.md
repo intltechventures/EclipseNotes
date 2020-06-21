@@ -25,6 +25,13 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
+## [4.16 - 2020-06](https://help.eclipse.org/2020-06/index.jsp) - [download](https://www.eclipse.org/eclipseide/2020-06/)
+- [Eclipse 4.16 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.16/)
+
+- 2020-06-20 - Installed on my laptop
+
+
+
 ## [4.15 - 2020-03](https://help.eclipse.org/2020-03/index.jsp) - [download](https://www.eclipse.org/eclipseide/2020-03/)
 - [Eclipse 4.15 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.15/)
 
