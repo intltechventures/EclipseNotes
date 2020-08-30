@@ -34,6 +34,9 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
   + "Eclipse must be installed to a clean directory and not installed over top of a previous installation."
 
 
+- Asciidoctor Editor
+  + https://marketplace.eclipse.org/content/asciidoctor-editor
+
 
 
 ## [4.15 - 2020-03](https://help.eclipse.org/2020-03/index.jsp) - [download](https://www.eclipse.org/eclipseide/2020-03/)
