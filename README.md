@@ -36,6 +36,7 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 - Asciidoctor Editor
   + https://marketplace.eclipse.org/content/asciidoctor-editor
+  + https://dl.bintray.com/de-jcup/asciidoctoreditor
 
 
 
