@@ -38,6 +38,11 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
   + https://marketplace.eclipse.org/content/asciidoctor-editor
   + https://dl.bintray.com/de-jcup/asciidoctoreditor
 
+- Rust Language
+  + Corrosion
+    * https://projects.eclipse.org/projects/tools.corrosion
+    * https://projects.eclipse.org/projects/tools.corrosion/downloads
+    * https://download.eclipse.org/corrosion/releases/latest/
 
 
 ## [4.15 - 2020-03](https://help.eclipse.org/2020-03/index.jsp) - [download](https://www.eclipse.org/eclipseide/2020-03/)
