@@ -23,6 +23,10 @@ I feel that Eclipse as a platform has chosen a path toward ruin. Given the incre
      
 I may, from time-to-time, come back and experiment with Eclipse - and if I find some useful plugins - that are uniquely, and only, available within the Eclipse ecosphere - I will likely add some new sections to this document. 
 
+## [4.17 - 2020-07](https://help.eclipse.org/2020-09/index.jsp) - [download](https://www.eclipse.org/eclipseide/2020-09/)
+- [Eclipse 4.17 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.17/)
+
+
 
 
 ## [4.16 - 2020-06](https://help.eclipse.org/2020-06/index.jsp) - [download](https://www.eclipse.org/eclipseide/2020-06/)
@@ -140,7 +144,7 @@ __THIS IS JUST CRAP ARCHITECTURE__
 - Upgrading Eclipse:
   + https://help.eclipse.org/2019-06/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-2.htm&cp=0_3_1
     * ```"If you have installed extra plug-ins in your Eclipse environment, you will need to add these new plug-ins to each new build or version of Eclipse you install."```
-i   * You should be able to click a button and install in-place, and there should be a centralized Eclipse Plugin Upgrade Data Hub - which would look-up and replace the URLs for the plugins. This isn't rocket science.
+    * You should be able to click a button and install in-place, and there should be a centralized Eclipse Plugin Upgrade Data Hub - which would look-up and replace the URLs for the plugins. This isn't rocket science.
 
 
 
