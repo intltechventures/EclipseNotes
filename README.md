@@ -1,5 +1,9 @@
 # My Eclipse Notes
 
+- Upgrade existing Eclipse IDE
+  + https://wiki.eclipse.org/FAQ_How_do_I_upgrade_Eclipse_IDE%3F
+
+
 - I've been a long-time user of Eclipse - and this list has been my own internal running commentary (and helpfuul tickler file) to remind me of what I've installed when a version of Eclipse is released
 
 - Possible future TO-DOs:
@@ -15,7 +19,6 @@
     * https://www.eclipse.org/downloads/packages/
 
 
-
 ## 2019-06-09 Update - "Good-bye, Eclipse"
 Given the impressive growth and expansion within the Vistual Studio Code marketplace - to support Open Source tools and languages - I am making a decision to shift my primary coding to use the Microsfot Visual Studio Code - and Micorosfot Visual Studio 2017/2019 IDEs.
      
@@ -24,7 +27,16 @@ I feel that Eclipse as a platform has chosen a path toward ruin. Given the incre
 I may, from time-to-time, come back and experiment with Eclipse - and if I find some useful plugins - that are uniquely, and only, available within the Eclipse ecosphere - I will likely add some new sections to this document. 
 
 
-## [4.17 - 2020-07](https://help.eclipse.org/2020-09/index.jsp) - [download](https://www.eclipse.org/eclipseide/2020-09/)
+
+## [4.18 - 2020-12](https://help.eclipse.org/2020-12/index.jsp) -
+[download](https://www.eclipse.org/eclipseide/2020-12/)
+- [Eclipse 4.18 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.18/)
+- [What's
+  new?](https://help.eclipse.org/2020-12/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6)
+
+
+
+## [4.17 - 2020-09](https://help.eclipse.org/2020-09/index.jsp) - [download](https://www.eclipse.org/eclipseide/2020-09/)
 - [Eclipse 4.17 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.17/)
 - [What's new?](https://help.eclipse.org/2020-09/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6)
 
