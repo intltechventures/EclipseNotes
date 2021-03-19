@@ -33,6 +33,9 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - [What's
   new?](http://help.eclipse.org/2021-03/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6) 
 - [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.19.php)
+  + "Eclipse must be installed to a clean directory and not installed over top of a previous installation. If you have
+    done this then please re-install to a new directory."
+
 
 - Java 16 Support for Eclipse 2021-03 (4.19)
   + https://marketplace.eclipse.org/content/java-16-support-eclipse-2021-03-419
