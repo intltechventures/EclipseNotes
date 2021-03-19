@@ -41,6 +41,38 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
   + https://wiki.eclipse.org/Java16/Examples
 
 
+- Eclipse Groovy
+  + https://github.com/groovy/groovy-eclipse
+    * https://github.com/groovy/groovy-eclipse/wiki
+      * https://dist.springsource.org/snapshot/GRECLIPSE/e4.19
+
+- Rust Corrosion
+  + https://download.eclipse.org/corrosion/releases/latest/
+
+- Eclipse StatET (R language)
+  + https://projects.eclipse.org/projects/science.statet
+    * https://download.eclipse.org/statet/integration/latest/E202103
+
+- Kotlin
+  + https://marketplace.eclipse.org/content/kotlin-plugin-eclipse
+    * https://dl.bintray.com/jetbrains/kotlin/eclipse-plugin/last/
+
+- PyDev
+  + https://marketplace.eclipse.org/content/pydev-python-ide-eclipse
+    * http://www.pydev.org/updates/
+
+- Subclipse
+  + https://github.com/subclipse/subclipse
+    * https://subclipse.github.io/updates/
+
+- CDT 
+  + https://intltechventures.blogspot.com/2016/03/2016-03-04-friday-gcc-gnu-compiler.html
+  + https://www.eclipse.org/cdt/documentation.php
+  + https://www.eclipse.org/cdt/downloads.php
+    * https://download.eclipse.org/tools/cdt/releases/10.2
+
+
+
 
 ## [4.18 - 2020-12](https://help.eclipse.org/2020-12/index.jsp) - [download](https://www.eclipse.org/eclipseide/2020-12/)
 - [Eclipse 4.18 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.18/)
