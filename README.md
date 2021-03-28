@@ -34,6 +34,21 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
   + "Eclipse must be installed to a clean directory and not installed over top of a previous installation. If you have done this then please re-install to a new directory."
 
 
+
+- Issues Encountered:
+  + https://bugs.eclipse.org/bugs/show_bug.cgi?id=571885
+    * "java.io.FileNotFoundException: /icons/eview16/error_log.gif"
+    * KM: This only shows when opening an previous  workspace
+
+  + https://bugs.eclipse.org/bugs/show_bug.cgi?id=570094
+    * "Not properly disposed SWT resource"
+    * "Add NonDisposedReporter to default IDE application & enable in SDK product"
+    * https://git.eclipse.org/c/platform/eclipse.platform.ui.git/commit/?id=99cbe6f11ddf9fc4edad7b1d03480703992583c5
+    * Re: https://bugs.eclipse.org/bugs/show_bug.cgi?id=569752
+      * "Detect non disposed OS resources via Object.finalize()"
+    * Re: https://github.com/eclipse/eclipse.platform.ui/blob/master/bundles/org.eclipse.ui.ide.application/src/org/eclipse/ui/internal/ide/application/IDEWorkbenchAdvisor.java
+
+
 - Java 16 Support for Eclipse 2021-03 (4.19)
   + https://marketplace.eclipse.org/content/java-16-support-eclipse-2021-03-419
 	  * The feature can also be installed via the following P2 update site:
