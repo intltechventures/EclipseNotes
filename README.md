@@ -36,6 +36,10 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 - Issues Encountered:
+  + https://www.eclipse.org/forums/index.php/t/86078/
+  + https://stackoverflow.com/questions/11768106/clean-out-eclipse-workspace-metadata
+    * I think this is the root-cause of a lot of error messages...
+
   + https://bugs.eclipse.org/bugs/show_bug.cgi?id=571885
     * "java.io.FileNotFoundException: /icons/eview16/error_log.gif"
     * KM: This only shows when opening an previous  workspace
