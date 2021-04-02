@@ -80,7 +80,15 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
   + https://marketplace.eclipse.org/content/pydev-python-ide-eclipse
     * http://www.pydev.org/updates/
 
+
+- Subversive - DO NOT USE, has not been updated to support 2021-03, 4.19
+  + https://www.eclipse.org/subversive/documentation/gettingStarted/aboutSubversive/install.php
+  * https://www.eclipse.org/subversive/downloads.php
+
 - Subclipse
+  + https://marketplace.eclipse.org/content/subclipse
+    * https://subclipse.github.io/updates/subclipse/4.3.x/
+      * DO NOT USE - URL not found
   + https://github.com/subclipse/subclipse
     * https://subclipse.github.io/updates/
 
