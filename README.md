@@ -71,6 +71,8 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - Eclipse StatET (R language)
   + https://projects.eclipse.org/projects/science.statet
     * https://download.eclipse.org/statet/integration/latest/E202103
+  + It has been a __painful__ trial-and-error to get this working - this was helpful:
+    * https://stackoverflow.com/questions/9502667/statet-in-eclipse-and-r/9503022
 
 - Kotlin
   + https://marketplace.eclipse.org/content/kotlin-plugin-eclipse
