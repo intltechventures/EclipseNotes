@@ -91,12 +91,24 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
       * DO NOT USE - URL not found
   + https://github.com/subclipse/subclipse
     * https://subclipse.github.io/updates/
+  + Issues:
+    * https://stackoverflow.com/questions/1425891/subclipse-complains-path-is-not-a-working-copy-after-moving-workspace
 
 - CDT 
   + https://intltechventures.blogspot.com/2016/03/2016-03-04-friday-gcc-gnu-compiler.html
   + https://www.eclipse.org/cdt/documentation.php
   + https://www.eclipse.org/cdt/downloads.php
     * https://download.eclipse.org/tools/cdt/releases/10.2
+
+
+- Web Tools 
+  + https://projects.eclipse.org/projects/webtools
+
+
+- Eclipse Wild Web Developer 
+  + https://projects.eclipse.org/projects/tools.wildwebdeveloper
+  + https://github.com/eclipse/wildwebdeveloper#installation
+    * http://download.eclipse.org/wildwebdeveloper/snapshots
 
 
 
