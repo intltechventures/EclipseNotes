@@ -111,6 +111,11 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
     * http://download.eclipse.org/wildwebdeveloper/snapshots
 
 
+- GoClipse 
+  + https://marketplace.eclipse.org/content/goclipse
+    * https://goclipse.github.io/releases/
+    * CONFLICT NOTE: ```Has an conflict with CDT 10.* ```
+
 
 
 ## [4.18 - 2020-12](https://help.eclipse.org/2020-12/index.jsp) - [download](https://www.eclipse.org/eclipseide/2020-12/)
