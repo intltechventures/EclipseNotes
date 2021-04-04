@@ -19,6 +19,9 @@
     * https://www.eclipse.org/downloads/packages/
 
 
+- https://www.eclipse.org/forums/index.php/i/
+
+
 ## 2019-06-09 Update - "Good-bye, Eclipse"
 Given the impressive growth and expansion within the Vistual Studio Code marketplace - to support Open Source tools and languages - I am making a decision to shift my primary coding to use the Microsfot Visual Studio Code - and Micorosfot Visual Studio 2017/2019 IDEs.
      
@@ -73,6 +76,11 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
     * https://download.eclipse.org/statet/integration/latest/E202103
   + It has been a __painful__ trial-and-error to get this working - this was helpful:
     * https://stackoverflow.com/questions/9502667/statet-in-eclipse-and-r/9503022
+    * https://gitlab.com/walware/de.walware.rj-server.gr/-/wikis/Installation
+      * "The package only works in the R Console (RJ) in the StatET IDE or other applications using StatET RJ."      
+      * "It is important to pick the RJ package version/repository compatible to the used StatET version."
+      * ```install.packages(c("rj", "rj.gd"), repos="https://download.walware.de/rj-4.0")```
+
 
 - Kotlin
   + https://marketplace.eclipse.org/content/kotlin-plugin-eclipse
