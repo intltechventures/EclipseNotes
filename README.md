@@ -92,6 +92,7 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 - PHP Development Tools (PDT)
   + https://www.eclipse.org/pdt/
+  + https://wiki.eclipse.org/PDT
   + https://github.com/eclipse/pdt
   + https://download.eclipse.org/tools/pdt/updates/7.2
   + https://download.eclipse.org/tools/pdt/updates/8.0
