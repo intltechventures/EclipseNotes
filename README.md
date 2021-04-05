@@ -1,5 +1,7 @@
 # My Eclipse Notes
 
+- https://wiki.eclipse.org/Eclipse_Project_Update_Sites
+
 - Upgrade existing Eclipse IDE
   + https://wiki.eclipse.org/FAQ_How_do_I_upgrade_Eclipse_IDE%3F
 
