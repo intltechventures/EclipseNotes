@@ -68,7 +68,8 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - Eclipse Groovy
   + https://github.com/groovy/groovy-eclipse
     * https://github.com/groovy/groovy-eclipse/wiki
-      * https://dist.springsource.org/snapshot/GRECLIPSE/e4.19
+    * https://github.com/groovy/groovy-eclipse/wiki/4.1.0-Release-Notes
+      * https://dist.springsource.org/release/GRECLIPSE/4.1.0/e4.19
 
 - Rust Corrosion
   + https://download.eclipse.org/corrosion/releases/latest/
@@ -134,6 +135,20 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
   + https://marketplace.eclipse.org/content/goclipse
     * https://goclipse.github.io/releases/
     * CONFLICT NOTE: ```Has an conflict with CDT 10.* ```
+
+### TO Evaluate - for possible Installation
+- https://marketplace.eclipse.org/content/spring-tools-4-aka-spring-tool-suite-4
+  + https://spring.io/tools
+
+- https://marketplace.eclipse.org/content/jhipster-ide
+  + https://www.jhipster.tech/
+
+- https://marketplace.eclipse.org/content/pmd-eclipse-plugin
+  + https://pmd.github.io/
+
+- https://marketplace.eclipse.org/content/checkstyle-plug
+  + https://checkstyle.org/eclipse-cs/#!/
+
 
 
 
