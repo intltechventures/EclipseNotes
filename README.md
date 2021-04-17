@@ -62,6 +62,8 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
   + https://marketplace.eclipse.org/content/java-16-support-eclipse-2021-03-419
 	  * The feature can also be installed via the following P2 update site:
 	    * https://download.eclipse.org/eclipse/updates/4.19-P-builds
+      * NOTE: Once you have installed this update, disable the update site - it appears that it doesn't recognize that
+        it is installed - and keeps trying to update.
   + https://wiki.eclipse.org/Java16/Examples
 
 
