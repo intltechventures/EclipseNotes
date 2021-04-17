@@ -70,6 +70,7 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
     * https://github.com/groovy/groovy-eclipse/wiki
     * https://github.com/groovy/groovy-eclipse/wiki/4.1.0-Release-Notes
       * https://dist.springsource.org/release/GRECLIPSE/4.1.0/e4.19
+      * NOTE: This is *NOT COMPATIBLE* with the Java 16 Support, above  
 
 - Rust Corrosion
   + https://download.eclipse.org/corrosion/releases/latest/
@@ -135,6 +136,24 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
   + https://marketplace.eclipse.org/content/goclipse
     * https://goclipse.github.io/releases/
     * CONFLICT NOTE: ```Has an conflict with CDT 10.* ```
+
+
+
+- Snyk Security Scanner 
+  + https://marketplace.eclipse.org/content/snyk-security-scanner
+
+- JHipster IDE 
+  + https://marketplace.eclipse.org/content/jhipster-ide
+
+
+- Java Mission Control
+  + https://marketplace.eclipse.org/content/java-mission-control
+  + https://www.oracle.com/java/technologies/jdk-mission-control.html
+  + https://download.oracle.com/technology/products/missioncontrol/updatesites/openjdk/8.0.0/ide/
+  + JDK Mission Control can be downloaded and installed using the Eclipse Update Site facility. The following URL functions as an update site. Novice users can follow the step-by-step instructions.
+    * http://download.oracle.com/technology/products/missioncontrol/updatesites/openjdk/8.0.0/eclipse/
+
+
 
 ### TO Evaluate - for possible Installation
 - https://marketplace.eclipse.org/content/spring-tools-4-aka-spring-tool-suite-4
