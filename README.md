@@ -140,6 +140,13 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
     * CONFLICT NOTE: ```Has an conflict with CDT 10.* ```
 
 
+- SonarLint
+  + https://marketplace.eclipse.org/content/sonarlint
+    * Detect Code Quality and Code Security issues on the fly in Eclipse
+  + https://www.sonarlint.org/eclipse
+  + https://github.com/SonarSource/sonarlint-eclipse
+  + https://eclipse-uc.sonarlint.org
+
 
 - Snyk Security Scanner 
   + https://marketplace.eclipse.org/content/snyk-security-scanner
@@ -170,6 +177,9 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - https://marketplace.eclipse.org/content/checkstyle-plug
   + https://checkstyle.org/eclipse-cs/#!/
 
+
+- https://marketplace.eclipse.org/content/umlet-uml-tool-fast-uml-diagrams  
+  + https://www.umlet.com/umlet_latest/repository/
 
 
 
