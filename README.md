@@ -32,6 +32,16 @@ I feel that Eclipse as a platform has chosen a path toward ruin. Given the incre
 I may, from time-to-time, come back and experiment with Eclipse - and if I find some useful plugins - that are uniquely, and only, available within the Eclipse ecosphere - I will likely add some new sections to this document. 
 
 
+## [4.21 - 2021-09](https://help.eclipse.org/2021-09/index.jsp) -
+[download](https://www.eclipse.org/eclipseide/2021-09/)
+- [Eclipse 4.21 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.21/)
+- [What's
+  new?](http://help.eclipse.org/2021-09/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6)
+- [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.21.php)
+
+
+
+
 ## [4.20 - 2021-06](https://help.eclipse.org/2021-06/index.jsp) -
 [download](https://www.eclipse.org/eclipseide/2021-06/)
 - [Eclipse 4.20 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.20/)
