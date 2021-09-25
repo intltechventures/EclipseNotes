@@ -41,6 +41,13 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
+- Corrosion (Rust Eclipse Plugin)
+  + https://marketplace.eclipse.org/content/eclipse-corrosion
+  + https://github.com/eclipse/corrosion
+  + http://download.eclipse.org/corrosion/releases/latest
+
+
+
 
 ## [4.20 - 2021-06](https://help.eclipse.org/2021-06/index.jsp) -
 [download](https://www.eclipse.org/eclipseide/2021-06/)
