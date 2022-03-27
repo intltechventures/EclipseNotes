@@ -57,6 +57,16 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
     * "-Djava.io.tmpdir=<eclipse install drive>:\<a-temp-folder>"
 
 
+
+## [4.22 - 2022-03](https://help.eclipse.org/2022-03/index.jsp) -
+[download](https://www.eclipse.org/eclipseide/2022-03/)
+- [Eclipse 4.22 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.21/)
+- [What's new?](https://help.eclipse.org/2022-03/index.jsp)
+- [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.22.php)
+
+
+
+
 ## [4.21 - 2021-09](https://help.eclipse.org/2021-09/index.jsp) -
 [download](https://www.eclipse.org/eclipseide/2021-09/)
 - [Eclipse 4.21 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.21/)
