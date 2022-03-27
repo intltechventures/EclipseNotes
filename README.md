@@ -59,6 +59,13 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
     * http://download.eclipse.org/tools/cdt/releases/10.6
 
 
+- Subclipse
+  + https://marketplace.eclipse.org/content/subclipse
+  + https://github.com/subclipse/subclipse/wiki
+  + https://github.com/subclipse/subclipse
+    * https://subclipse.github.io/updates/
+
+
 - PMD
   + https://marketplace.eclipse.org/content/pmd-eclipse-plugin
     * https://pmd.github.io/pmd-eclipse-plugin-p2-site/
