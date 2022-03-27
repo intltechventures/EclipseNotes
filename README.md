@@ -33,12 +33,21 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
+## [4.23 - 2022-03](https://help.eclipse.org/2022-03/index.jsp) - [download](https://www.eclipse.org/eclipseide/2022-03/)
+- [Eclipse 4.22 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.21/)
+- [What's new?](https://help.eclipse.org/2022-03/index.jsp)
+- [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.22.php)
+
+- Trying to upgrade from 4.22 to 4.22, what a complete and utter clusterfuck.
+- Jesus H. Christ - can Eclipse just test their shit before releasing it?
+- Visual Studio has NEVER given me such grief.
+
+
+
 ## [4.22 - 2021-12](https://help.eclipse.org/2021-12/index.jsp) -
 [download](https://www.eclilpse.org/eclipseide/2021-12/)
 - [Eclipse 4.22 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.22/)
-- [What's
-  new?](http://help.eclipse.org/2021-12/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6)
-
+- [What's new?](http://help.eclipse.org/2021-12/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6)
 - [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.22.php)
 
 - When attempting to upgrade from 2021-09 to 2021-12, you may get this error (on Windows):
@@ -58,21 +67,9 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
-## [4.22 - 2022-03](https://help.eclipse.org/2022-03/index.jsp) -
-[download](https://www.eclipse.org/eclipseide/2022-03/)
-- [Eclipse 4.22 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.21/)
-- [What's new?](https://help.eclipse.org/2022-03/index.jsp)
-- [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.22.php)
-
-
-
-
-## [4.21 - 2021-09](https://help.eclipse.org/2021-09/index.jsp) -
-[download](https://www.eclipse.org/eclipseide/2021-09/)
+## [4.21 - 2021-09](https://help.eclipse.org/2021-09/index.jsp) - [download](https://www.eclipse.org/eclipseide/2021-09/)
 - [Eclipse 4.21 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.21/)
-- [What's
-  new?](http://help.eclipse.org/2021-09/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6)
-
+- [What's new?](https://help.eclipse.org/2021-09/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6)
 - [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.21.php)
 
 
@@ -86,11 +83,9 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
-## [4.20 - 2021-06](https://help.eclipse.org/2021-06/index.jsp) -
-[download](https://www.eclipse.org/eclipseide/2021-06/)
+## [4.20 - 2021-06](https://help.eclipse.org/2021-06/index.jsp) - [download](https://www.eclipse.org/eclipseide/2021-06/)
 - [Eclipse 4.20 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.20/)
-- [What's
-  new?](http://help.eclipse.org/2021-06/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6)
+- [What's new?](http://help.eclipse.org/2021-06/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6)
 - [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.20.php)
   + Running Eclipse with Java SE 9 and above may require additional configuration.
     * https://wiki.eclipse.org/Configure_Eclipse_for_Java_9
