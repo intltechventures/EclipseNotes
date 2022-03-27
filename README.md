@@ -38,9 +38,62 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - [What's new?](https://help.eclipse.org/2022-03/index.jsp)
 - [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.22.php)
 
-- Trying to upgrade from 4.22 to 4.23, what a complete and utter clusterfuck.
-- Jesus H. Christ - can Eclipse just test their shit before releasing it?
-- Visual Studio has NEVER given me such grief.
+
+- Wild Web Developer: HTML, CSS, JavaScript, TypeScript, Node.js, Angular, JSON, YAML (+Kubernetes), XML
+  + https://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml
+    * http://download.eclipse.org/wildwebdeveloper/releases/latest/ 
+
+
+- Rust: Eclipse Corrosion Plugin
+  + https://marketplace.eclipse.org/content/eclipse-corrosion-rust-editing-and-debugging 
+    * http://download.eclipse.org/corrosion/releases/latest
+
+
+- Python: Eclipse PyDev
+  + https://marketplace.eclipse.org/content/pydev-python-ide-eclipse
+    * http://www.pydev.org/updates/
+
+
+- Eclipse C/C++ IDE
+  + https://marketplace.eclipse.org/content/eclipse-cc-ide
+    * http://download.eclipse.org/tools/cdt/releases/10.6
+
+
+- PMD
+  + https://marketplace.eclipse.org/content/pmd-eclipse-plugin
+    * https://pmd.github.io/pmd-eclipse-plugin-p2-site/
+
+
+- CheckStyle
+  + https://marketplace.eclipse.org/content/checkstyle-plug
+    * https://checkstyle.org/eclipse-cs-update-site
+
+
+- SonarLint 
+  + https://marketplace.eclipse.org/content/sonarlint
+    * https://eclipse-uc.sonarlint.org
+      * NOTE: x509 expired...
+
+
+- R: StatET
+  + https://marketplace.eclipse.org/content/statet-r
+    * 2022-03-26: 2022-03, 4.23 - not supported yet 
+
+
+- Java 18 Support
+  + https://marketplace.eclipse.org/content/java-18-support-eclipse-2022-03-423
+    * https://download.eclipse.org/eclipse/updates/4.23-P-builds 
+
+
+- Kotlin
+  + https://marketplace.eclipse.org/content/kotlin-plugin-eclipse
+    * 2022-03-26: 2022-03, 4.23 - not supported yet
+
+
+- Go: GoClipse 
+  + https://marketplace.eclipse.org/content/goclipse
+    * 2022-03-26: 2022-03, 4.23 - not supported yet
+
 
 
 
