@@ -38,14 +38,13 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - [What's new?](https://help.eclipse.org/2022-03/index.jsp)
 - [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.22.php)
 
-- Trying to upgrade from 4.22 to 4.22, what a complete and utter clusterfuck.
+- Trying to upgrade from 4.22 to 4.23, what a complete and utter clusterfuck.
 - Jesus H. Christ - can Eclipse just test their shit before releasing it?
 - Visual Studio has NEVER given me such grief.
 
 
 
-## [4.22 - 2021-12](https://help.eclipse.org/2021-12/index.jsp) -
-[download](https://www.eclilpse.org/eclipseide/2021-12/)
+## [4.22 - 2021-12](https://help.eclipse.org/2021-12/index.jsp) - [download](https://www.eclilpse.org/eclipseide/2021-12/)
 - [Eclipse 4.22 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.22/)
 - [What's new?](http://help.eclipse.org/2021-12/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6)
 - [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.22.php)
