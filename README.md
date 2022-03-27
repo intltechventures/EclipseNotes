@@ -45,6 +45,7 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 - Rust: Eclipse Corrosion Plugin
+  + https://projects.eclipse.org/projects/tools.corrosion
   + https://marketplace.eclipse.org/content/eclipse-corrosion-rust-editing-and-debugging 
     * http://download.eclipse.org/corrosion/releases/latest
 
@@ -83,8 +84,11 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 - R: StatET
+  + https://projects.eclipse.org/projects/science.statet
   + https://marketplace.eclipse.org/content/statet-r
     * 2022-03-26: 2022-03, 4.23 - not supported yet 
+      * https://www.eclipse.org/statet/downloads/
+        * https://www.eclipse.org/statet/downloads/4.5.php
 
 
 - Java 18 Support
@@ -101,6 +105,20 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
   + https://marketplace.eclipse.org/content/goclipse
     * 2022-03-26: 2022-03, 4.23 - not supported yet
 
+
+- To consider/evaluate:
+
+- Eclipse Linux Tools
+  + https://projects.eclipse.org/projects/tools.linuxtools
+    * http://download.eclipse.org/linuxtools/update
+
+- Eclipse Mission Control
+  + https://projects.eclipse.org/projects/adoptium.mc
+
+
+- Eclipse Che 
+  + https://www.eclipse.org/che/
+  + https://projects.eclipse.org/projects/ecd.che
 
 
 
