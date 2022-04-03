@@ -39,6 +39,13 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.22.php)
 
 
+- Eclipse Enterprise Java and Web Developer Tools
+  + https://marketplace.eclipse.org/content/eclipse-enterprise-java-and-web-developer-tools
+    * https://www.eclipse.org/webtools/
+    * https://download.eclipse.org/releases/latest
+      * Note: Select the last folder...with the OSGi, and Java Enterprise options
+
+
 - Wild Web Developer: HTML, CSS, JavaScript, TypeScript, Node.js, Angular, JSON, YAML (+Kubernetes), XML
   + https://marketplace.eclipse.org/content/wild-web-developer-html-css-javascript-typescript-nodejs-angular-json-yaml-kubernetes-xml
     * http://download.eclipse.org/wildwebdeveloper/releases/latest/ 
