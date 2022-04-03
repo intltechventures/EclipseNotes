@@ -106,7 +106,7 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
     * 2022-03-26: 2022-03, 4.23 - not supported yet
 
 
-- To consider/evaluate:
+### To consider/evaluate:
 
 - Eclipse Linux Tools
   + https://projects.eclipse.org/projects/tools.linuxtools
@@ -119,6 +119,11 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - Eclipse Che 
   + https://www.eclipse.org/che/
   + https://projects.eclipse.org/projects/ecd.che
+
+
+- TM Terminal 
+  + https://marketplace.eclipse.org/content/tm-terminal
+    * https://download.eclipse.org/tools/cdt/releases/10.6 
 
 
 
