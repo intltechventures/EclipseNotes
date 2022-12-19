@@ -16,6 +16,7 @@
 - Some Useful Links to Eclipse Plugins & Notes
 
 - https://www.eclipse.org/
+  + https://eclipseide.org/release/noteworthy/
   + https://www.eclipse.org/downloads/packages/compare
   + https://www.eclipse.org/downloads/
     * https://www.eclipse.org/downloads/packages/
@@ -30,6 +31,18 @@ Given the impressive growth and expansion within the Vistual Studio Code marketp
 I feel that Eclipse as a platform has chosen a path toward ruin. Given the increased pace of their releases - that habitually break older plugins - I can no longer, in good faith, recommend it as a tool for my clients. In the last few years, I have grown increasingly frustrated with the level of pain it represents - for an increasingly diminishing value proposition. It is a sad ending - and I have too long been relunctant to make a final decision to switch. 
      
 I may, from time-to-time, come back and experiment with Eclipse - and if I find some useful plugins - that are uniquely, and only, available within the Eclipse ecosphere - I will likely add some new sections to this document. 
+
+
+
+
+
+
+## [4.25 - 2022-12](https://help.eclipse.org/2022-12/index.jsp) - [download](https://www.eclipse.org/eclipseide/2022-12/)
+- [Eclipse 4.25 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.25/)
+- [What's new?](https://help.eclipse.org/2022-12/index.jsp)
+- [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse.4.25.php)
+
+
 
 
 ## [4.24 - 2022-06](https://help.eclipse.org/2022-06/index.jsp) - [download](https://www.eclipse.org/eclipseide/2022-06/)
