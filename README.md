@@ -44,6 +44,13 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
+- Rust: Eclipse Corrosion Plugin, Rust editing and debugging 
+  + https://marketplace.eclipse.org/content/eclipse-corrosion-rust-editing-and-debugging
+    * https://download.eclipse.org/corrosion/releases/latest
+    * https://github.com/eclipse/corrosion
+
+
+
 
 ## [4.24 - 2022-06](https://help.eclipse.org/2022-06/index.jsp) - [download](https://www.eclipse.org/eclipseide/2022-06/)
 - [Eclipse 4.24 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.24/)
