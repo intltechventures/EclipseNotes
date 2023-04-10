@@ -34,6 +34,13 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
+## [4.27 - 2023-03](https://help.eclipse.org/2023-03/index.jsp) - [download](https://www.eclipse.org/eclipseide/2023-03/)
+
+- JDK 20 support (4.27 - 2023-03 release of Eclipse only supports up to JDK 19)
+  + https://marketplace.eclipse.org/content/java-20-support-eclipse-2023-03-427
+    * "This marketplace solution provides Java 20 support for Eclipse 2023-03 (4.27). To install the feature place ensure you have the latest Eclipse release, which is 4.27."
+    * https://download.eclipse.org/eclipse/updates/4.27-P-builds/
+
 
 
 
