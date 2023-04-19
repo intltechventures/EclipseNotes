@@ -56,10 +56,10 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
-## [4.25 - 2022-12](https://help.eclipse.org/2022-12/index.jsp) - [download](https://www.eclipse.org/eclipseide/2022-12/)
-- [Eclipse 4.25 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.25/)
+## [4.26 - 2022-12](https://help.eclipse.org/2022-12/index.jsp) - [download](https://www.eclipse.org/eclipseide/2022-12/)
+- [Eclipse 4.26 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.26/)
 - [What's new?](https://help.eclipse.org/2022-12/index.jsp)
-- [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse.4.25.php)
+- [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse.4.26.php)
 
 
 
@@ -67,6 +67,13 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
   + https://marketplace.eclipse.org/content/eclipse-corrosion-rust-editing-and-debugging
     * https://download.eclipse.org/corrosion/releases/latest
     * https://github.com/eclipse/corrosion
+
+
+
+## [4.25 - 2022-09](https://help.eclipse.org/2022-09/index.jsp) - [download](https://www.eclipse.org/eclipseide/2022-09/)
+- [Eclipse 4.25 - New & Noteworthy](https://www.eclipse.org/ecipse/news/4.25/)
+- [What's New?](https://help.eclipse.org/2022-09/index.jsp)
+- [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclise.4.25.php)
 
 
 
