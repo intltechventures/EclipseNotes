@@ -34,11 +34,10 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
-## [4.27 - 2023-03](https://help.eclipse.org/2023-03/index.jsp) - [download](https://www.eclipse.org/eclipseide/2023-03/)
+## [4.27 - 2023-03](https://help.eclipse.org/2023-03/index.jsp) - [download](https://www.eclipse.org/downloads/packages/release/2023-03/r)
 - [Eclipse 4.27 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.27/)
 - [What's New?](https://help.eclipse.org/2023-03/index.jsp)
-- [Relese Notes](https://www.eclilpse.org/eclipse/development/readme_eclipse.4.27.php)
-
+- [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.27.php)
 
 - YouTube videos:
   + Eclipse Foundation YouTube channel: [Eclipse IDE Webinar - January 2023](https://www.youtube.com/watch?v=DknYA0enjY4)
