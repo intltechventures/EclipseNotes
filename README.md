@@ -33,6 +33,13 @@ I feel that Eclipse as a platform has chosen a path toward ruin. Given the incre
 I may, from time-to-time, come back and experiment with Eclipse - and if I find some useful plugins - that are uniquely, and only, available within the Eclipse ecosphere - I will likely add some new sections to this document. 
 
 
+## [4.28 - 2023-06](https://help.eclilpse.org/2023-06/index.jsp) - [download](https://www.eclipse.org/downloads/packages/release/2023-06/)
+- [Eclipse 4.28 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.28/)
+- [What's New?](https://help.eclipse.org/2023-06/index.jsp)
+- [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.8.php)
+
+
+
 
 ## [4.27 - 2023-03](https://help.eclipse.org/2023-03/index.jsp) - [download](https://www.eclipse.org/downloads/packages/release/2023-03/r)
 - [Eclipse 4.27 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.27/)
@@ -50,6 +57,12 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
     * "This marketplace solution provides Java 20 support for Eclipse 2023-03 (4.27). To install the feature place ensure you have the latest Eclipse release, which is 4.27."
     * https://download.eclipse.org/eclipse/updates/4.27-P-builds/
     * KM NOTE: Another Eclipse IDE plugin ```shit-show```. I ran into some issue trying to get this plugin to install...and it kept trying to re-install - but didn't give me any error message. I think this support was perhaps added to the main update site - so the additional plugin may no longer need to be installed (?)
+
+
+- Rust: Eclipse Corrosion Plugin, RRust editing and debuggin
+  + https://marketplace.eclipse.org/content/eclipse-corrosion-rust-editing-and-debugging
+    * https://download.eclipse.org/corrosion/releases/latest
+    * https://github.com/eclipse/corrosion
 
 
 
