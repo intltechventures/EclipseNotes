@@ -39,6 +39,12 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse_4.8.php)
 
 
+- SonarLint
+  + https://marketplace.eclipse.org/content/sonarlint
+    * https://eclipse-uc.sonarlint.org 
+      * NOTE: You will get a warning ("Do you trust unsigned content of unknown origin?") - that the org.slf4j.api is unsigned 
+        * WTF is this shit!? In this day and age - this could indicate a compromised plugin.
+
 
 
 ## [4.27 - 2023-03](https://help.eclipse.org/2023-03/index.jsp) - [download](https://www.eclipse.org/downloads/packages/release/2023-03/r)
