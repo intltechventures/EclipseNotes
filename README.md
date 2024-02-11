@@ -24,6 +24,7 @@
   + https://www.eclipse.org/downloads/
     * https://www.eclipse.org/downloads/packages/
 
+- https://wiki.eclipse.org/Eclipse_Articles,_Tutorials,_Demos,_Books,_and_More
 
 - https://www.eclipse.org/forums/index.php/i/
 
@@ -43,7 +44,6 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - [Eclipse 4.30 - New & Noteworthy - eclipse.org](https://www.eclipse.org/eclipse/news/4.30/)
 - [Eclipse 4.30 - New & Noteworthy - eclipse.dev](https://eclipse.dev/eclipse/news/4.30/platform.php) 
 - [What's New?](https://help.eclipse.org/2023/12/index.jsp)
-- [Release Notes](https://www.eclipse.org/eclipse/development/readme_eclipse.4.30.php) 
 - [Participating Projects](https://projects.eclipse.org/releases/2023-12) 
 
 
