@@ -34,7 +34,7 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
-## [4.30 - 2023-12](https://help.eclipse.org/2023-12/index.php) - [download](https://www.eclipse.org/downloads/packages/release/2023-12/)
+## [4.30 - 2023-12](https://help.eclipse.org/2023-12/index.jsp) - [download](https://www.eclipse.org/downloads/packages/release/2023-12/)
 - Version: 4.30.0.20231201-1200
 - [Eclipse 4.30 - New & Noteworthy](https://www.eclipse.org/eclipse/news/4.30/)
 - [What's New?](https://help.eclipse.org/2023/12/index.jsp)
