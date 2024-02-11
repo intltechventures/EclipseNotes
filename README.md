@@ -17,6 +17,7 @@
 - Some Useful Links to Eclipse Plugins & Notes
 
 - https://www.eclipse.org/
+  + https://help.eclipse.org/latest/index.jsp
   + https://eclipseide.org/release/noteworthy/
   + https://download.eclipse.org/eclipse/downloads/
   + https://www.eclipse.org/downloads/packages/compare
