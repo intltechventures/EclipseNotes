@@ -48,6 +48,19 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
+- Eclipse Marketplace Plugins
+  + Subversive - DO NOT USE - No Connectors Found, after install...
+    * https://download.eclipse.org/technology/subversive/4.8/release/latest/
+
+  + Subclipse - DO NOT USE - has quote a few entries indicating unsigned content from UNKNOWN...
+    * https://marketplace.eclipse.org/content/subclipse
+    * 
+
+
+
+
+
+
 
 
 ## [4.29 - 2023-09](https://help.eclipse.org/2023-09/index.jsp) - [download](https://www.eclipse.org/downloads/packages/release/2023-09/)
