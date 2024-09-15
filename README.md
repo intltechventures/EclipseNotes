@@ -39,6 +39,18 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
+
+## [4.33 - 2024-09](https://help.eclipse.org/2024-09/index.jsp) - [download](https://www.eclipse.org/downloads/packages/release/2024-09/)
+
+
+
+
+
+## [4.32 - 2024-06](https://help.eclipse.org/2024-06/index.jsp) - [download](https://www.eclipse.org/downloads/packages/release/2024-06/)
+
+
+
+
 ## [4.31 - 2024-03](https://help.eclipse.org/2024-03/index.jsp) - [download](https://www.eclipse.org/downloads/packages/release/2024-03/)
 - Version: 4.31.0.120240229-0520
 - [Eclipse 4.31 - New & Noteworthy - eclipse.org](https://www.eclipse.org/eclipse/news/4.31/)
@@ -47,7 +59,9 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - [Participating Projects](https://projects.eclipse.org/releases/2024-03) 
 
 - Eclipse Marketplace Plugins
-
+  + Subclipse
+    * https://marketplace.eclipse.org/content/subclipse
+    * https://subclipse.github.io/updates/subclipse/4.3.x/
 
 
 
