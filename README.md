@@ -41,8 +41,8 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 ## [4.34 - 2024-12](https://help.eclipse.org/2024-12/index.jsp) - [download](https://www.eclipse.org/downloads/packages/release/2024-12/)
 - Version 4.34
 - [Eclipse 4.34 - New & Noteworthy - eclipse.org](https://www.eclipse.org/eclipse/news/4.34/)
-- [Eclipse 4.34 - New & Noteworthy - eclipse.dev](https://eclipse.dev/eclipse/news/4.34/platform.php) 
-- [What's New?](https://help.eclipse.org/2024/12/index.jsp)
+- [Documentation](https://help.eclipse.org/2024-12/index.jsp)
+- [What's New?](https://help.eclipse.org/2024-12/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp%3D0_6)
 - [Participating Projects](https://projects.eclipse.org/releases/2024-12) 
 
 - Eclipse Marketplace Plugins
