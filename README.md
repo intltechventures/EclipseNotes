@@ -48,6 +48,7 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 - [Eclipse CDT (C/C++ Development Tooling)](https://projects.eclipse.org/projects/tools.cdt/downloads)
+  + https://github.com/eclipse-cdt
   + https://github.com/eclipse-cdt/cdt
     * Latest Release: 
       * https://download.eclipse.org/tools/cdt/releases/latest/
