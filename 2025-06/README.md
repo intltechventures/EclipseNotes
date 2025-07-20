@@ -8,4 +8,4 @@
 - subclipse
   + https://marketplace.eclipse.org/content/subclipse
     * https://subclipse.github.io/updates/subclipse/4.3.x/
-  + + ![](_images/Screenshot-2025-07-19 224642-subclipse.png)
+  + + ![](_images/Screenshot-2025-07-19_224642-subclipse.png)
