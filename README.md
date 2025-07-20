@@ -38,6 +38,10 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
+## [2025-06] v4.36
+
+
+
 
 ## [4.35 - 2025-03](https://help.eclipse.org/2025-03/index.jsp) - [download](https://www.eclipse.org/downloads/packages/release/2025-03/)
 - Version 4.35
