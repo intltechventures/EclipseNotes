@@ -38,7 +38,7 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 
-## [2025-06] v4.36
+## [2025-06 v4.36](2025-06)
 
 
 
