@@ -37,9 +37,18 @@ I feel that Eclipse as a platform has chosen a path toward ruin. Given the incre
 I may, from time-to-time, come back and experiment with Eclipse - and if I find some useful plugins - that are uniquely, and only, available within the Eclipse ecosphere - I will likely add some new sections to this document. 
 
 
+
+
+
 ## 2025
 
+
+### [2025-09 v4.37](2025-09)
+
+
+
 ### [2025-06 v4.36](2025-06)
+
 
 
 ### [2025-03 v4.35](2025-03)
