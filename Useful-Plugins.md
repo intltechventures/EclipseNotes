@@ -3,6 +3,16 @@
 
 - https://marketplace.eclipse.org/
 
+
+## C/C++ 
+
+- Eclipse CDT (C/C++ Development Tooling)
+ + https://projects.eclipse.org/projects/tools.cdt
+ + https://github.com/eclipse-cdt
+ + https://github.com/eclipse-cdt/cdt
+   * https://download.eclipse.org/tools/cdt/releases/latest/
+
+
 ## AWS
 
 - https://builder.aws.com/build/tools
