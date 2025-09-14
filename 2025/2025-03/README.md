@@ -10,6 +10,9 @@
 - [Participating Projects](https://projects.eclipse.org/releases/2025-03) 
 
 
+
+## Eclipse Marketplace Plugins
+
 - [Eclipse CDT (C/C++ Development Tooling)](https://projects.eclipse.org/projects/tools.cdt/downloads)
   + https://github.com/eclipse-cdt
   + https://github.com/eclipse-cdt/cdt
@@ -17,9 +20,6 @@
       * https://download.eclipse.org/tools/cdt/releases/latest/
     * Bleeding edge continuous (aka nightly) builds are available for the main branch from the p2 software repository
       * https://download.eclipse.org/tools/cdt/builds/cdt/main/
-
-
-## Plugins
 
 
 
