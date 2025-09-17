@@ -30,7 +30,7 @@
 
 ### 2019-06-09 Update - "Good-bye, Eclipse"
 
-Given the impressive growth and expansion within the Visual Studio Code marketplace - to support Open Source tools and languages - I am making a decision to shift my primary coding to use the Microsoft Visual Studio Code - and Microsoft Visual Studio 2017/2019 IDEs.  
+Given the impressive growth and expansion within the Visual Studio Code marketplace - to support Open Source tools and languages - I am making a decision to shift my primary coding to use the Microsoft Visual Studio Code - and Microsoft Visual Studio IDEs.  
      
 I feel that Eclipse as a platform has chosen a path toward ruin. Given the increased pace of their releases - that habitually break older plugins - I can no longer, in good faith, recommend it as a tool for my clients. In the last few years, I have grown increasingly frustrated with the level of pain it represents - for an increasingly diminishing value proposition. It is a sad ending - and I have too long been relunctant to make a final decision to switch.   
      
@@ -39,6 +39,9 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 
 
 ## Eclipse Version History 
+
+- These are notes for my experience installing, updating, configuring Eclipse...across the many different releases, over the years...
+
 
 ### 2025
 
