@@ -1,7 +1,7 @@
 
 # Issues
 
-## CDT DBG invocation
+## CDT GDB invocation
 
 - My notes:
   + I'm runing ```GNU gdb (GDB) (Cygwin 15.2-1) 15.2```
@@ -36,4 +36,4 @@
 
 - Failed to execute MI command: -exec-run
   + https://www.eclipse.org/forums/index.php/t/1102781/
-  
+ 
