@@ -3,7 +3,11 @@
 
 ## CDT GDB invocation
 
-- My notes:
+- Failed to execute MI command: -exec-run
+  + https://www.eclipse.org/forums/index.php/t/1102781/
+
+
+- My setup notes:
   + I'm runing ```GNU gdb (GDB) (Cygwin 15.2-1) 15.2```
 
 
@@ -35,6 +39,6 @@
       * "Note: For this release, the integration should be considered beta quality. It is not recommended for production use."
 
 
-- Failed to execute MI command: -exec-run
-  + https://www.eclipse.org/forums/index.php/t/1102781/
+
+
  
