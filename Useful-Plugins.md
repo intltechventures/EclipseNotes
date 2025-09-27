@@ -13,6 +13,10 @@
    * https://download.eclipse.org/tools/cdt/releases/latest/
 
 
+- References: 
+  + https://github.com/eclipse-cdt/cdt/issues
+  + https://stackoverflow.com/questions/tagged/eclipse-cdt
+
 ## AWS
 
 - https://builder.aws.com/build/tools
