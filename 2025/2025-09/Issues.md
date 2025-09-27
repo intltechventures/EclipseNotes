@@ -28,7 +28,8 @@
         * https://sourceware.org/bugzilla/show_bug.cgi?id=30017#c3
           > For the last ~20 years it turns out that CDT was relying on undefined behaviour in Cygwin/GDB that changed in GDB 10.
           * GDB commit: [727b7b1864973c2645a554727afd0eaf1303673a](https://sourceware.org/git/?p=binutils-gdb.git;a=commitdiff;h=727b7b1864973c2645a554727afd0eaf1303673a)
-        * ___One suggestion mentioned: Switch from Cygwin to msys___
+        * ___One suggestion mentioned: Switch from Cygwin to MSYS2___
+          * https://www.msys2.org/
 
     * "The Windows SDK provides the Visual C++ compiler and header files and libraries required to create Windows applications. The CDT Visual C++ build integration will find these files based on where you installed the SDK. No other setup is required."
       * "Note: For this release, the integration should be considered beta quality. It is not recommended for production use."
