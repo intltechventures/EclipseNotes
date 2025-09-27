@@ -39,6 +39,8 @@
       * "Note: For this release, the integration should be considered beta quality. It is not recommended for production use."
 
 
+- Also see:
+  + https://stackoverflow.com/questions/76944069/how-can-i-fix-the-eclipse-error-unable-to-execute-mi-command-exec-run-path
 
 
  
