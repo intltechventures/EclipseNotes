@@ -43,13 +43,24 @@ I may, from time-to-time, come back and experiment with Eclipse - and if I find 
 - These are notes for my experience installing, updating, configuring Eclipse...across the many different releases, over the years...
 
 
+### 2026
+
+- [2026-06-v4.40](_archived/2026/2026-06)
+- [2026-03-v4.39](_archived/2026/2026-03)
+
+
+
+---
+
 ### 2025
 
 
-- [2025-12-v4.38](2025/2025-12)
-- [2025-09 v4.37](2025/2025-09)
-- [2025-06 v4.36](2025/2025-06)
-- [2025-03 v4.35](2025/2025-03)
+- [2025-12-v4.38](_archived/2025/2025-12)
+- [2025-09 v4.37](_archived/2025/2025-09)
+- [2025-06 v4.36](_archived/2025/2025-06)
+- [2025-03 v4.35](_archived/2025/2025-03)
+
+
 
 ---
 
